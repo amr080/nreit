@@ -1,0 +1,1630 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<link rel="canonical" href="https://www.reit.com/data-research/benchmark-reports/year-end-tax-reporting-data" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link href="/themes/custom/mimic/favicon.ico" rel="shortcut icon" sizes="52x52" />
+<script>window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_config.onclick = 2;</script>
+
+    <title>Year-End Tax Reporting Data | Nareit</title>
+
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_0IOp8wXsGwWfZOG8Ge2OKp_wdS4JWoVNDcEfuzxp2fg.css?delta=0&amp;language=en&amp;theme=mimic&amp;include=eJyNUVtywyAMvJBtjuSRQcFqhEQRJHVPH1K77qTTj_7A6rF6rCCEqiCbgwNMl6JSB68F3dt7w7J1zFoW_XABL9D4CKp4PEMzCZOg-2UPtlnF5Bawnstgtr3ghGYQ0faKoiUB0yce3W30qlfCIVEi7wpaVjG6YYWFO2l3R9YF-DDuK9SRJLc6YJt3ev9SZoI-r_vL-f_M-RTgioGqlhl8HzWQijvRLiBKGG6Ed3Nf75Q0NP7exJDR18NIKG0cE5AMGQrEAnk1F0rLwNOPZ2p9q4XJVgwHc0UIWMaqMT7lEChIdU5kHplBUJv1s6bnKZZTQwgkccxFY9fTulaBPPRVXmuuSHGtD4Y-0tg" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_-9kwr8K7vx9Awi2qn10dH5zlWf-ELVK72iLp5VndgnI.css?delta=1&amp;language=en&amp;theme=mimic&amp;include=eJyNUVtywyAMvJBtjuSRQcFqhEQRJHVPH1K77qTTj_7A6rF6rCCEqiCbgwNMl6JSB68F3dt7w7J1zFoW_XABL9D4CKp4PEMzCZOg-2UPtlnF5Bawnstgtr3ghGYQ0faKoiUB0yce3W30qlfCIVEi7wpaVjG6YYWFO2l3R9YF-DDuK9SRJLc6YJt3ev9SZoI-r_vL-f_M-RTgioGqlhl8HzWQijvRLiBKGG6Ed3Nf75Q0NP7exJDR18NIKG0cE5AMGQrEAnk1F0rLwNOPZ2p9q4XJVgwHc0UIWMaqMT7lEChIdU5kHplBUJv1s6bnKZZTQwgkccxFY9fTulaBPPRVXmuuSHGtD4Y-0tg" />
+
+    
+
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <script src="https://kit.fontawesome.com/5c1b8ed258.js" crossorigin="anonymous"></script>
+
+          <!-- Google Tag Manager -->
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+          j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+          'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-MKJWC6K');</script>
+      <!-- End Google Tag Manager -->
+
+      <!-- Global site tag (gtag.js) - Google Analytics Cross-Domain -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-5290346-1"></script>
+      <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-5290346-1', {'linker': {'domains': ['cvent.com']}});
+      </script>
+      <!-- End Global site tag -->
+     
+    <script id="mcjs">
+      !function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/098b8d15612af26cb804c9135/feea9842ced909a4a2aed3c11.js");
+    </script>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/priority-plus/dist/priority-plus.css">
+    <!-- Will be available globally as priorityPlus -->
+    <script defer src="https://cdn.jsdelivr.net/npm/priority-plus/dist/priority-plus.js"></script>
+
+    <script type='application/ld+json'>
+{
+  "@context": "http://www.schema.org",
+  "@type": "NGO",
+  "name": "Nareit",
+  "url": "https://www.reit.com/",
+  "sameAs": [
+    "https://twitter.com/REITs_Nareit",
+    "https://www.youtube.com/channel/UCedqqjlQZQGqyR_a_2c8rMg",
+    "https://www.linkedin.com/company/nareit",
+    "https://www.facebook.com/REITsNareit/"
+  ],
+  "telephone": "2027399400",
+  "logo": "https://www.reit.com/sites/all/themes/nareit/images/nareit_logo_white-min.png?v=1.0",
+  "description": "Real estate working for you",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1875 I street, NW Suite 600",
+    "addressLocality": "Washington",
+    "addressRegion": "DC",
+    "postalCode": "20006",
+    "addressCountry": "United States of America"
+  }
+}
+</script>
+
+<script type='application/ld+json'>
+  {
+    "@context": "http://www.schema.org",
+    "@type": "WebSite",
+    "name": "Nareit",
+    "url": "https://www.reit.com/"
+  }
+</script>
+                                                                                      </head>
+
+  <body class="env-dev path-data-research">
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    <a href="#accessibility" class="visually-hidden focusable skip-link">
+      Accessibility statement
+    </a>
+    
+
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div id="reading-progress-indicator"></div>
+
+<div class="l-page">
+
+      
+<header class="l-header">
+  <div class="l-header__utility-blocks">
+
+    <div class="l-header__container l-header__utility-blocks__inner">
+              <div class="l-header__user-menu l-header__utility-blocks__block">
+          <div role="form" class="block block-user block-user-login-block">
+  
+    
+
+      <form class="user-login-form" data-drupal-selector="user-login-form" action="/data-research/benchmark-reports/year-end-tax-reporting-data?destination=/data-research/benchmark-reports/year-end-tax-reporting-data" method="post" id="user-login-form" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-name form-item-name">
+      <label for="edit-name" class="js-form-required form-required">Username</label>
+        <input autocorrect="none" autocapitalize="none" spellcheck="false" data-drupal-selector="edit-name" type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" required="required" aria-required="true" />
+
+        </div>
+<div class="js-form-item form-item js-form-type-password form-type-password js-form-item-pass form-item-pass">
+      <label for="edit-pass" class="js-form-required form-required">Password</label>
+        <input data-drupal-selector="edit-pass" type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" required="required" aria-required="true" />
+
+        </div>
+<input autocomplete="off" data-drupal-selector="form-skp5osnvfvh6copk9vzon1fqgpgndpaaxtdyphciaxi" type="hidden" name="form_build_id" value="form-SKP5oSnvfvh6COpK9VzON1FqGpGNDPAaXtDYphciAXI" />
+<input data-drupal-selector="edit-user-login-form" type="hidden" name="form_id" value="user_login_form" />
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions--6"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Log in" class="button js-form-submit form-submit" />
+<input class="close-button button js-form-submit form-submit" data-drupal-selector="edit-close" type="submit" id="edit-close" name="op" value="Close" />
+</div>
+
+</form>
+<div class="item-list"><ul><li><a href="/user/password" title="Send password reset instructions via email." class="request-password-link">Reset your password</a></li></ul></div>
+	<div class="item-list amended"><ul><li><a href="/user/create-account" data-message="This is the correct Create account link" title="Create a new user account." class="create-account-link">Create new account</a></li><li><a href="/user/forgot-password" title="Send password reset instructions via email." class="request-password-link">Reset your password</a></li></ul></div>
+  </div>
+
+        </div>
+
+                  <div class="l-header__search l-header__utility-blocks__block">
+        <!-- BEGINNING OF SEARCH BLOCK -->
+
+        <div id="block-search-block">
+          <form action="" method="get" id="views-exposed-form-search-search-page" accept-charset="UTF-8">
+            <div class="form--inline clearfix">
+              <div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-keyword form-item-keyword">
+                <input placeholder="Start typing search keyword..." data-drupal-selector="edit-keyword" type="text" id="edit-keyword" name="keywords" value="" size="30" maxlength="128" class="form-text">
+              </div>
+
+              <fieldset data-drupal-selector="edit-type" id="edit-type--wrapper" class="fieldgroup form-composite js-form-item form-item js-form-wrapper form-wrapper">
+                <legend>
+                  <span class="fieldset-legend">Filter by Type</span>
+                </legend>
+
+                <div class="fieldset-wrapper">
+                  <div id="edit-type" class="form-checkboxes">
+                    <div class="js-form-item form-item js-form-type-checkbox form-type-checkbox js-form-item-type-1 form-item-type-1">
+                      <input data-drupal-selector="edit-type-1" type="checkbox" id="edit-type-1" name="type[1]" value="1" class="form-checkbox">
+                      <label for="edit-type-1" class="option">Company Page</label>
+                    </div>
+                    <div class="js-form-item form-item js-form-type-checkbox form-type-checkbox js-form-item-type-2 form-item-type-2">
+                      <input data-drupal-selector="edit-type-2" type="checkbox" id="edit-type-2" name="type[2]" value="2" class="form-checkbox">
+                      <label for="edit-type-2" class="option">Event</label>
+                    </div>
+                    <div class="js-form-item form-item js-form-type-checkbox form-type-checkbox js-form-item-type-3 form-item-type-3">
+                      <input data-drupal-selector="edit-type-3" type="checkbox" id="edit-type-3" name="type[3]" value="3" class="form-checkbox">
+                      <label for="edit-type-3" class="option">News</label>
+                    </div>
+                    <div
+                      class="js-form-item form-item js-form-type-checkbox form-type-checkbox js-form-item-type-4 form-item-type-4">
+                      <input data-drupal-selector="edit-type-4" type="checkbox" id="edit-type-4" name="type[4]" value="4" class="form-checkbox">
+                      <label for="edit-type-4" class="option">Tax Report</label>
+                    </div>
+                  </div>
+                </div>
+              </fieldset>
+
+              <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions">
+                <input data-drupal-selector="edit-submit-search" type="submit" id="edit-submit-search" value="Search" class="button js-form-submit form-submit">
+                <input class="close-button button js-form-submit form-submit" data-drupal-selector="edit-close" type="submit" id="edit-close" name="op" value="Close">
+              </div>
+            </div>
+          </form>
+        </div>
+
+        <!-- END OF SEARCH BLOCK -->
+      </div>
+    </div>
+  </div>
+  <div class="l-header__top">
+    <div class="l-header__container l-header__top__inner">
+      <div class="l-header__branding">
+          <div class="region region-header">
+    <div id="block-mimic-branding" class="block block--branding block-system block-system-branding-block">
+            <a class="block--branding__logo" href="/" title="Home" rel="home">
+        <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+   viewBox="0 0 474.6 72" xml:space="preserve">
+            <path d="M265,37.8c0.9-0.1,1.1-0.4,1.1-1.2v-13c0-0.8-0.2-1.1-1.1-1.2V21h8.1c2.7,0,4.8,0,6.3,1c1.3,0.9,2.1,2.3,2.1,3.9
+  c0,2.4-1.4,4-4.1,4.9l3.6,5.8c0.3,0.6,0.8,1,1.5,1.2v1.4h-5.3l-4.8-7.8h-1.6v5.2c0,0.8,0.2,1.1,1.1,1.2v1.4h-7L265,37.8z M276.6,26
+  c0-1.9-1.1-2.5-3.5-2.5h-2.3v5.3h2.3C275.5,28.8,276.6,27.9,276.6,26z M290.1,39.4c-4.6,0-7.5-2.6-7.5-6.9c0-3.7,2.7-6.2,6.7-6.2
+  c3.8,0,6,2.1,6,5.9c0,0.2,0,0.4,0,0.6h-8.5c0.1,2.8,1.5,4.3,4.1,4.3c1.7,0,2.8-0.6,3.2-1.9h1.2v3.1C293.7,39,291.9,39.4,290.1,39.4z
+   M290.9,30.8L290.9,30.8c0-1.6-0.7-2.5-1.8-2.5s-1.9,0.9-2.1,2.5H290.9z M305.1,38.2c-1.2,0.8-2.6,1.3-4,1.3c-2.7,0-4.4-1.7-4.4-3.8
+  c0-2.9,2.5-4.1,8.1-5.2v-0.3c0-1.2-0.7-1.7-2.3-1.7c-1.8,0-2.9,0.6-3.2,1.8h-1.8v-2.9c1.9-0.7,3.8-1.1,5.8-1.1
+  c4.1,0,5.6,1.5,5.6,4.9v5.7c0,0.7,0.2,0.9,0.9,1v1.3h-4.9V38.2z M304.8,32.6c-2.6,0.6-3.9,1.5-3.9,2.8c0,0.8,0.6,1.4,1.3,1.4
+  c0.1,0,0.1,0,0.2,0c0.9,0,1.8-0.4,2.4-1.2V32.6z M311.8,37.8c0.8-0.1,1-0.3,1-1V23.3c0-0.7-0.2-0.9-1-1V21h5.3v15.8
+  c0,0.7,0.2,0.9,1,1v1.3h-6.3L311.8,37.8z M334.2,39.4c-4.7,0-7.5-2.6-7.5-6.9c0-3.7,2.7-6.2,6.7-6.2c3.8,0,6,2.1,6,5.9
+  c0,0.2,0,0.4,0,0.6H331c0.1,2.8,1.6,4.3,4.1,4.3c1.7,0,2.8-0.6,3.2-1.9h1.2v3.1C337.8,39,336,39.4,334.2,39.4L334.2,39.4z M335,30.8
+  L335,30.8c0-1.6-0.7-2.5-1.8-2.5c-1.1,0-2,0.9-2.1,2.5H335z M342.7,34.6l1.2,0.4c-0.1,0.2-0.1,0.5-0.1,0.7c0,0.9,1,1.5,2.7,1.5
+  c1.7,0,2.5-0.4,2.5-1.3s-1-1.1-3.1-1.6c-3-0.8-4.4-1.9-4.4-3.9c0-2.4,2.2-4.1,5.8-4.1c2,0,4,0.6,5.7,1.7l-1.9,2.7l-1.2-0.4
+  c0-0.1,0-0.3,0-0.4c0-0.9-0.9-1.5-2.2-1.5s-2,0.5-2,1.2s0.9,0.9,2.6,1.3c3.2,0.9,4.8,1.7,4.8,4.2s-2.3,4.3-6.3,4.3
+  c-2.3,0.1-4.5-0.6-6.4-1.9L342.7,34.6z M360.5,39.4c-3,0-4.3-1.1-4.3-4v-6.8h-1.4v-2h1.4v-3.3l4.3-1v4.3h2.9v2h-2.9v7
+  c0,1.2,0.3,1.7,1.2,1.7s1.2-0.5,1.2-1.4h1.1v3.1C362.9,39.3,361.7,39.4,360.5,39.4z M373.6,38.2c-1.2,0.8-2.6,1.3-4,1.3
+  c-2.7,0-4.4-1.7-4.4-3.8c0-2.9,2.5-4.1,8.1-5.2v-0.3c0-1.2-0.7-1.7-2.3-1.7c-1.8,0-2.9,0.6-3.2,1.8h-1.8v-2.9
+  c1.9-0.7,3.8-1.1,5.8-1.1c4.1,0,5.6,1.5,5.6,4.9v5.7c0,0.7,0.2,0.9,0.9,1v1.3h-4.9L373.6,38.2z M373.3,32.6
+  c-2.6,0.6-3.9,1.5-3.9,2.8c0,0.8,0.6,1.4,1.3,1.4c0.1,0,0.1,0,0.2,0c0.9,0,1.8-0.4,2.4-1.2V32.6z M385.1,39.4c-3,0-4.3-1.1-4.3-4
+  v-6.8h-1.3v-2h1.4v-3.3l4.3-1v4.3h2.9v2h-2.9v7c0,1.2,0.3,1.7,1.2,1.7s1.2-0.5,1.2-1.4h1.1v3.1C387.5,39.3,386.3,39.4,385.1,39.4
+  L385.1,39.4z M397,39.4c-4.6,0-7.5-2.6-7.5-6.9c0-3.7,2.7-6.2,6.8-6.2c3.8,0,6,2.1,6,5.9c0,0.2,0,0.4,0,0.6h-8.5
+  c0.1,2.8,1.6,4.3,4.1,4.3c1.7,0,2.8-0.6,3.2-1.9h1.2v3.1C400.6,39.1,398.8,39.4,397,39.4L397,39.4z M397.7,30.8L397.7,30.8
+  c0-1.6-0.7-2.5-1.8-2.5s-2,0.9-2.1,2.5H397.7z M266.2,56.1c-0.1-0.3-0.2-0.6-0.4-0.9c-0.2-0.1-0.4-0.2-0.7-0.2v-1.3h6.2V55
+  c-0.5,0-0.7,0.2-0.7,0.6c0,0.2,0,0.4,0.1,0.5l1.6,5.5l1.8-5.2c-0.4-1-0.5-1.4-1.2-1.4h-0.1v-1.3h6.1V55c-0.5,0-0.7,0.2-0.7,0.6
+  c0,0.2,0,0.4,0.1,0.5l1.7,5.5l1.6-5.5c0.1-0.2,0.1-0.4,0.1-0.6c0-0.4-0.2-0.6-0.8-0.6v-1.3h4.6V55c-0.6,0.1-0.9,0.4-1.1,1.1
+  l-3.5,10.2h-3.7l-1.9-6.4l-2,6.4h-3.7L266.2,56.1z M293,53.5c4.2,0,7,2.7,7,6.6s-2.8,6.6-7,6.6S286,63.9,286,60S288.8,53.5,293,53.5
+  z M293,64.1c1.6,0,2.5-1.4,2.5-4.1s-0.9-4.1-2.5-4.1s-2.5,1.4-2.5,4.1S291.5,64.1,293,64.1L293,64.1z M301.5,65c0.8-0.1,1-0.3,1-1
+  v-7.9c0-0.7-0.2-1-1-1v-1.3h4.8v1.4c0.9-1.1,2.2-1.7,3.5-1.7c0.4,0,0.7,0,1.1,0.1v3.6h-1.3c0-0.6-0.4-1-1-1c-0.1,0-0.1,0-0.2,0
+  c-1.3,0-1.6,0.8-1.6,2.6V64c0,0.7,0.2,0.9,0.9,1v1.3h-6.2V65z M311.9,65c0.8-0.1,0.9-0.3,0.9-1V50.5c0-0.7-0.1-0.9-0.9-1v-1.3h5.3
+  v10.5l3-2.8c0.2-0.2,0.3-0.3,0.3-0.5s-0.3-0.4-0.8-0.4v-1.3h6.4V55c-0.6,0-1.3,0.2-1.7,0.6l-2.7,2.2l4,6.3c0.3,0.5,0.7,0.8,1.1,0.8
+  h0v1.3H320V65c0.5,0,0.8-0.1,0.8-0.4c0-0.2-0.1-0.4-0.2-0.5l-2.2-3.6l-1.4,1.1V64c0,0.7,0.2,0.9,0.9,1v1.3h-6.2L311.9,65z M328.2,65
+  c0.8-0.1,1-0.3,1-1v-7.9c0-0.7-0.2-1-1-1v-1.3h5.3V64c0,0.7,0.2,0.9,1,1v1.3h-6.3V65z M331.2,47.7c1.3,0,2.3,1,2.4,2.3
+  c0,0,0,0,0,0.1c0,1.3-1,2.4-2.3,2.4c0,0,0,0,0,0c-1.3,0-2.3-1-2.3-2.3c0,0,0,0,0-0.1C328.8,48.8,329.8,47.7,331.2,47.7
+  C331.1,47.7,331.1,47.7,331.2,47.7L331.2,47.7z M336.2,65c0.8-0.1,0.9-0.3,0.9-1v-7.9c0-0.7-0.2-1-0.9-1v-1.3h5v1.1
+  c1.1-1,2.5-1.5,4-1.5c3.1,0,4.5,1.6,4.5,5.1V64c0,0.4,0,0.6,0.2,0.8c0.2,0.1,0.5,0.2,0.7,0.2v1.3h-6.2V65c0.8-0.1,0.9-0.3,0.9-1
+  v-5.6c0-1.6-0.4-2.4-1.7-2.4c-0.9,0.1-1.7,0.5-2.2,1.2V64c0,0.7,0.2,0.9,0.9,1v1.3h-6.2L336.2,65z M357.5,66.3
+  c-3.3,0-5.4-2.2-5.4-5.6c0-4.1,3.2-7,8.8-7h5.5V55c-0.8,0.1-0.9,0.3-0.9,1v8.3c0,0.9,0.6,1.8,0.6,2.8c0,2.9-2.8,4.9-7.7,4.9
+  c-3.1,0-5.2-1-6.6-3l3-2.4l0.9,0.8c-0.1,0.2-0.1,0.3-0.1,0.5c0,0.9,1,1.7,2.7,1.7c2.3,0,3.6-1.1,3.6-2.8c0-0.6-0.2-1.2-0.6-1.7
+  C360.1,65.9,358.8,66.3,357.5,66.3z M361.1,55.9c-3,0-4.5,1.7-4.5,4.9c0,2.1,0.8,3.2,2.2,3.2c0.9,0,1.7-0.3,2.4-0.9L361.1,55.9
+  L361.1,55.9z M375.2,65c0.8-0.1,0.9-0.3,0.9-1v-8.2h-1.3v-2h1.3v-1.4c0-3.1,1.7-4.7,5.1-4.7c1,0,2,0.2,3,0.5v3.1h-1.6
+  c0-1-0.3-1.4-1-1.4s-1.1,0.6-1.1,1.9v1.9h2.2v2h-2.2V64c0,0.7,0.2,0.9,1.1,1v1.3h-6.4L375.2,65z M390.6,53.5c4.3,0,7.1,2.7,7.1,6.6
+  s-2.8,6.6-7.1,6.6s-7-2.8-7-6.6S386.5,53.5,390.6,53.5z M390.6,64.1c1.6,0,2.5-1.4,2.5-4.1s-0.9-4.1-2.5-4.1s-2.5,1.4-2.5,4.1
+  S389.1,64.1,390.6,64.1L390.6,64.1z M398.8,65c0.8-0.1,1-0.3,1-1v-7.9c0-0.7-0.2-1-1-1v-1.3h4.8v1.4c0.9-1.1,2.2-1.7,3.6-1.7
+  c0.4,0,0.7,0,1.1,0.1v3.6h-1.3c0-0.6-0.5-1-1.1-1c0,0,0,0-0.1,0c-1.3,0-1.6,0.8-1.6,2.6V64c0,0.7,0.2,0.9,0.9,1v1.3h-6.2V65z
+   M415.8,67.9h1.6c0,0.9,0.7,1.6,1.5,1.6c0,0,0.1,0,0.1,0c1.2,0,1.9-0.6,1.9-1.6c0-0.3,0-0.6-0.2-0.9l-4.3-11
+  c-0.3-0.8-0.5-1.1-1.2-1.1v-1.3h6.6V55c-0.5,0-0.8,0.2-0.8,0.6c0,0.2,0,0.4,0.1,0.5l2.1,5.9l2.1-5.9c0.1-0.2,0.1-0.4,0.1-0.6
+  c0-0.4-0.3-0.6-0.8-0.6h-0.1v-1.3h5V55c-0.6,0.1-1.1,0.5-1.2,1.1l-4.2,11.4c-1.2,3.2-2.6,4.5-5.8,4.5c-0.9,0-1.8-0.1-2.6-0.5
+  L415.8,67.9z M436.8,53.5c4.3,0,7.1,2.7,7.1,6.6s-2.8,6.6-7.1,6.6s-7-2.8-7-6.6S432.6,53.5,436.8,53.5L436.8,53.5z M436.8,64.1
+  c1.6,0,2.5-1.4,2.5-4.1s-0.9-4.1-2.5-4.1s-2.5,1.4-2.5,4.1S435.3,64.1,436.8,64.1L436.8,64.1z M454.7,65.1c-1.1,1-2.5,1.5-4,1.5
+  c-3.1,0-4.5-1.6-4.5-5V56c0-0.7-0.2-1-0.9-1v-1.3h5.2v7.9c0,1.6,0.4,2.4,1.7,2.4c0.9-0.1,1.7-0.5,2.2-1.2v-6.8c0-0.7-0.2-1-0.9-1
+  v-1.3h5.3V64c0,0.7,0.2,0.9,0.9,1v1.3h-5L454.7,65.1z M469.5,56.2c2.8-0.1,5.2,2.2,5.2,5c0.1,2.8-2.2,5.2-5,5.2
+  c-2.8,0.1-5.2-2.2-5.2-5c0,0,0-0.1,0-0.1c-0.1-2.7,2.1-5,4.8-5.1C469.4,56.3,469.5,56.3,469.5,56.2L469.5,56.2z M469.5,65.5
+  c2.3-0.1,4.1-2.1,4-4.4c-0.1-2.2-1.8-3.9-4-4c-2.3,0.1-4.1,2.1-4,4.4C465.7,63.7,467.4,65.4,469.5,65.5z M469.7,61.8h-1v2.1h-1.1
+  v-5.4h1.7c1.6,0,2.5,0.3,2.5,1.7c0,0.6-0.4,1.2-1,1.4l1.2,2.3h-1.2L469.7,61.8z M469.4,59.3h-0.7V61h0.8c0.8,0,1.2-0.3,1.2-0.8
+  S470.2,59.4,469.4,59.3L469.4,59.3z M241.9,66.2v-0.4c-1.5-1.7-2.1-3.3-2.1-7.2v-24h7.7V21h-7.6V4.6h-0.4l-23.2,29.6v0.5h6.5v24.1
+  c0,3.9-0.6,5.5-2.2,7.2v0.4L241.9,66.2z M194.4,66.2h21.4v-0.4c-1.5-1.7-2.1-3.3-2.1-7.2V21h-19.3v0.4c1.6,1.7,2.2,3.3,2.2,7.2v30.2
+  c0,3.9-0.6,5.5-2.2,7.2V66.2z M205.1,18c5,0,9-4,9-9c0-5-4-9-9-9l0,0c-5,0-9,4-9,9C196,14,200.1,18,205.1,18 M180.6,66.7
+  c1.1-0.1,2.2,0.2,3,0.9h0.4V52.1h-0.4c-3.4,1.7-7.1,2.6-10.9,2.5c-4.7,0-8-2-9.1-5.5H194v-0.3c-1-0.8-1.5-2-1.8-5.5
+  c-1-14.7-8.8-23.8-22.8-23.8c-13.5,0-23.2,10.8-23.2,24.1s9.6,24.1,24.2,24.1C175.2,67.8,177.8,66.8,180.6,66.7 M169.4,32.6
+  c3.4,0,6.1,2.7,6.4,6.5h-12.8c-0.1-3.5,2.7-6.4,6.2-6.5C169.3,32.6,169.4,32.6,169.4,32.6 M115.5,58.7c0,3.9-0.6,5.5-2.2,7.2v0.4
+  H135v-0.4c-1.7-1.7-2.5-3.5-2.5-7.5V38.5c1.6-1.7,3.8-2.6,6.1-2.5c2.8,0,4.7,0.6,5.9,1.7h0.4V18.3h-0.4c-1.2,2.1-11.1,0.2-13.4,10
+  h-0.4l-1-7.3h-17.4v0.4c2.1,2.3,3.1,4.1,3.1,9L115.5,58.7z M92.2,59.6l1.8,6.7h16.7v-0.4c-2.1-2.3-3.1-4.1-3.1-9V38.2
+  c0-4,0.5-5.7,2.1-7.2l-0.1-0.4c-3.9-0.2-8.1-11.2-24.1-11.2c-14,0-24.2,10.9-24.2,24.7c0,12.3,8.6,23.6,20.3,23.6
+  c5.4,0,9.1-3,10.4-8.2L92.2,59.6z M86,52.3c-4.6-0.2-8.1-4-8-8.5c0.2-4.3,3.6-7.8,8-8c1.6,0,3.2,0.5,4.5,1.4v13.7
+  C89.1,51.8,87.6,52.3,86,52.3 M22.3,65.9c-1.7-2-2.6-3.8-2.6-8.2V32.7l16.4,33.6h22.6v-0.4c-1.8-2-2.6-3.8-2.6-8.2V10.7
+  c0-4.4,0.9-6.1,2.6-8.2V2.2H36.4v0.4c1.7,2,2.5,3.8,2.5,8.2v24L23.4,2.2H0v0.4c1.8,2,2.6,3.8,2.6,8.2v47.1c0,4.4-0.9,6.1-2.6,8.2
+  v0.4h22.3V65.9z"/>
+          </svg>      </a>
+        
+    
+      </div>
+
+  </div>
+
+
+      </div>
+
+      <div class="l-header__menu-toggle">
+            <a href="#" id="menuToggle" class="toggle menuToggle" title="Toggle Menu" for="l-header__navigation">
+              <div class="bar one"></div>
+              <div class="bar two"></div>
+              <div class="bar three"></div>
+              <div class="bar four"></div>
+            </a>
+      </div>
+      <div class="l-header__navigation-wrapper">
+        <div class="l-header__utility-menu">
+          <ul class="menu">
+                          <li class="menu-item">
+                <a href="/nareit/membership">
+                  <span>Join Nareit</span>
+                </a>
+              </li>
+              <li class="menu-item">
+                                      <a href="/saml/login" class="toggle" for="l-header__user-menu">
+                                                                        <span>Login</span>
+                </a>
+              </li>
+                        <li class="menu-item">
+              <a href="#" id="searchtoggle" class="toggle search-toggle" title="Toggle Search Box" for="l-header__search" aria-label="Search">
+                
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" xml:space="preserve">
+  <path d="M505,442.7L405.3,343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3,44-79.7,44-128C416,93.1,322.9,0,208,0S0,93.1,0,208
+s93.1,208,208,208c48.3,0,92.7-16.4,128-44v16.3c0,6.4,2.5,12.5,7,17l99.7,99.7c9.4,9.4,24.6,9.4,33.9,0l28.3-28.3
+C514.3,467.3,514.3,452.1,505,442.7z M208,336c-70.7,0-128-57.2-128-128c0-70.7,57.2-128,128-128c70.7,0,128,57.2,128,128
+C336,278.7,278.8,336,208,336z"/>
+</svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="l-header__navigation l-header__utility-blocks__block">
+            <div class="region region-navigation">
+    <nav role="navigation" aria-labelledby="block-mimic-main-menu-menu" id="block-mimic-main-menu" class="block block-menu navigation menu--main">
+            
+  <h2 class="visually-hidden" id="block-mimic-main-menu-menu">Main navigation</h2>
+  
+
+        
+                <ul data-region="navigation" class="main-menu">
+        
+                                              <li class="menu-item menu-item--expanded">
+                  <a href="/what-reit" data-drupal-link-system-path="node/3">What&#039;s a REIT?</a>
+                                      
+                  <span class="submenu-toggle__label visually-hidden">Open submenu</span>
+          <div class="menu__submenu">
+            <div class="menu__submenu--container">
+              <ul class="submenu">
+
+              
+                                              <li class="menu-item">
+                  <a href="/what-reit" data-drupal-link-system-path="node/3">What&#039;s a REIT?</a>
+                                                    </li>
+
+                                              <li class="menu-item">
+                  <a href="/what-reit/reit-basics" data-drupal-link-system-path="node/297">REIT Basics</a>
+                                                    </li>
+
+                                              <li class="menu-item">
+                  <a href="/what-reit/types-reits" data-drupal-link-system-path="node/10294">Types of REITs</a>
+                                                    </li>
+
+                                              <li class="menu-item">
+                  <a href="/what-reit/reit-sectors" data-drupal-link-system-path="node/17">REIT Sectors</a>
+                                                    </li>
+
+                                              <li class="menu-item">
+                  <a href="/what-reit/glossary-reit-terms" data-drupal-link-system-path="node/18">REIT Glossary</a>
+                                                    </li>
+
+                                              <li class="menu-item">
+                  <a href="/what-reit/frequently-asked-questions-about-reits" data-drupal-link-system-path="node/19">REIT FAQs</a>
+                                                    </li>
+
+                                              <li class="menu-item">
+                  <a href="/what-reit/history-reits" data-drupal-link-system-path="node/9886">The History of REITs</a>
+                                                    </li>
+
+                                              <li class="menu-item">
+                  <a href="/what-reit/how-form-reit" data-drupal-link-system-path="node/10067">How to Form a REIT</a>
+                                                    </li>
+
+              
+                        </ul>
+          <div class="main-menu__featured-block">
+          </div>
+        </div>
+      </div>
+    
+  
+                                                                              <div class="temp-featured-block" style="display: none;">
+                          <div class="paragraph paragraph--image-info paragraph--image-info--default paragraph--type--image-info paragraph--view-mode--default">
+          
+            <div class="field field--name-field-info-image field--type-image field--label-hidden field__item">    <picture><img src="/sites/default/files/styles/medium_cropped_rectangle/public/2020-12/sector-navgraphic.jpg?itok=LCGBDw-B" width="450" height="250" alt="REIT Sectors" loading="lazy" typeof="foaf:Image">
+  </picture>
+
+
+</div>
+      
+            <div class="field field--name-field-title field--type-string field--label-hidden field__item">Explore REIT Sectors</div>
+      
+            <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__item"><p>REITs invest in the majority of real estate property types, including offices, apartment buildings, warehouses, retail centers, medical facilities, data centers, cell towers, telecommunications and hotels. </p></div>
+      
+            <div class="field field--name-field-cta field--type-link field--label-hidden field__item"><a href="/what-reit/reit-sectors">Learn more</a></div>
+      
+      </div>
+
+                      </div>
+                                                      </li>
+
+                                              <li class="menu-item menu-item--expanded">
+                  <a href="/investing" data-drupal-link-system-path="node/22">Investing in REITs</a>
+                                      
+                  <span class="submenu-toggle__label visually-hidden">Open submenu</span>
+          <div class="menu__submenu">
+            <div class="menu__submenu--container">
+              <ul class="submenu">
+
+              
+                                              <li class="menu-item">
+                  <a href="/investing" data-drupal-link-system-path="node/22">Investing in REITs</a>
+                                                    </li>
+
+                                              <li class="menu-item">
+                  <a href="/investing/why-invest-reits" data-drupal-link-system-path="node/9888">Why Invest in REITs</a>
+                                                    </li>
+
+                                              <li class="menu-item">
+                  <a href="/investing/how-invest-reits" data-drupal-link-system-path="node/9889">How to Invest in REITs</a>
+                                                    </li>
+
+                                              <li class="menu-item">
+                  <a href="/investing/reit-directory" data-drupal-link-system-path="node/322">REIT Directory</a>
+                                                    </li>
+
+                                              <li class="menu-item">
+                  <a href="/investing/reit-funds" data-drupal-link-system-path="node/25">List of REIT Funds</a>
+                                                    </li>
+
+                                              <li class="menu-item">
+                  <a href="/investing/reits-sustainability" data-drupal-link-system-path="node/10236">Sustainability</a>
+                                                    </li>
+
+                                              <li class="menu-item">
+                  <a href="https://www.reitsacrossamerica.com">REIT Assets by State</a>
+                                                    </li>
+
+                                              <li class="menu-item">
+                  <a href="/investing/global-real-estate-investment" data-drupal-link-system-path="node/9891">Global Real Estate</a>
+                                                    </li>
+
+                                              <li class="menu-item">
+                  <a href="/investing/investor-resources" data-drupal-link-system-path="node/100086596">Investor Resources</a>
+                                                    </li>
+
+              
+                        </ul>
+          <div class="main-menu__featured-block">
+          </div>
+        </div>
+      </div>
+    
+  
+                                                                              <div class="temp-featured-block" style="display: none;">
+                          <div class="paragraph paragraph--image-info paragraph--image-info--default paragraph--type--image-info paragraph--view-mode--default">
+          
+            <div class="field field--name-field-info-image field--type-image field--label-hidden field__item">    <picture><img src="/sites/default/files/styles/medium_cropped_rectangle/public/2024-05/Cover_2024%20Sustainability%20Report_980x551.jpg?itok=o4iI8JTH" width="450" height="250" alt="REIT Industry Sustainability Report 2024" loading="lazy" typeof="foaf:Image">
+  </picture>
+
+
+</div>
+      
+            <div class="field field--name-field-title field--type-string field--label-hidden field__item">REIT Industry Sustainability Report 2024</div>
+      
+            <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__item"><p>The REIT Industry Sustainability Report 2024 includes industry trends, REIT sustainability reporting data and analysis, as well as useful information on the publicly traded U.S. REIT industry’s primary sustainability, social responsibility, and governance practices.</p></div>
+      
+            <div class="field field--name-field-cta field--type-link field--label-hidden field__item"><a href="/investing/reits-sustainability/2024-reit-sustainability-report">Learn more</a></div>
+      
+      </div>
+
+                      </div>
+                                                      </li>
+
+                                              <li class="menu-item menu-item--expanded">
+                  <a href="/data-research" data-drupal-link-system-path="node/28">REIT Data</a>
+                                      
+                  <span class="submenu-toggle__label visually-hidden">Open submenu</span>
+          <div class="menu__submenu">
+            <div class="menu__submenu--container">
+              <ul class="submenu">
+
+              
+                                              <li class="menu-item">
+                  <a href="/data-research" data-drupal-link-system-path="node/28">REIT Data</a>
+                                                    </li>
+
+                                              <li class="menu-item">
+                  <a href="/data-research/reit-indexes" data-drupal-link-system-path="node/10244">REIT Indexes</a>
+                                                    </li>
+
+                                              <li class="menu-item">
+                  <a href="/data-research/reit-market-data" data-drupal-link-system-path="node/30">REIT Market Data</a>
+                                                    </li>
+
+                                              <li class="menu-item">
+                  <a href="/data-research/research-library" data-drupal-link-system-path="node/9918">Research Library</a>
+                                                    </li>
+
+              
+                        </ul>
+          <div class="main-menu__featured-block">
+          </div>
+        </div>
+      </div>
+    
+  
+                                                                              <div class="temp-featured-block" style="display: none;">
+                          <div class="paragraph paragraph--image-info paragraph--image-info--default paragraph--type--image-info paragraph--view-mode--default">
+          
+            <div class="field field--name-field-info-image field--type-image field--label-hidden field__item">    <picture><img src="/sites/default/files/styles/medium_cropped_rectangle/public/2023-12/1_Thumb_John%20Worth.jpg?itok=0t-t96wa" width="450" height="250" alt="2024 REIT Outlook" loading="lazy" typeof="foaf:Image">
+  </picture>
+
+
+</div>
+      
+            <div class="field field--name-field-title field--type-string field--label-hidden field__item">REITs in 2024</div>
+      
+            <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__item"><p>The impressive performance of REITs during late October and November may be a signal that the end of the rate-rising cycle will herald a period of REIT outperformance.</p></div>
+      
+            <div class="field field--name-field-cta field--type-link field--label-hidden field__item"><a href="/news/blog/market-commentary/2024-reit-performance-outlook">Learn more</a></div>
+      
+      </div>
+
+                      </div>
+                                                      </li>
+
+                                              <li class="menu-item menu-item--expanded">
+                  <a href="/news" title="Industry News" data-drupal-link-system-path="node/100099654">Industry News</a>
+                                      
+                  <span class="submenu-toggle__label visually-hidden">Open submenu</span>
+          <div class="menu__submenu">
+            <div class="menu__submenu--container">
+              <ul class="submenu">
+
+              
+                                              <li class="menu-item">
+                  <a href="/news" data-drupal-link-system-path="node/100099654">Industry News</a>
+                                                    </li>
+
+                                              <li class="menu-item">
+                  <a href="/news/publications" data-drupal-link-system-path="node/10061">Publications</a>
+                                                    </li>
+
+                                              <li class="menu-item">
+                  <a href="/news/advertise-nareit" data-drupal-link-system-path="node/100103186">Advertising</a>
+                                                    </li>
+
+                                              <li class="menu-item menu-item--collapsed">
+                  <a href="/news/media-contact" data-drupal-link-system-path="node/10430">Media Contacts</a>
+                                                    </li>
+
+              
+                        </ul>
+          <div class="main-menu__featured-block">
+          </div>
+        </div>
+      </div>
+    
+  
+                                                                              <div class="temp-featured-block" style="display: none;">
+                          <div class="paragraph paragraph--image-info paragraph--image-info--default paragraph--type--image-info paragraph--view-mode--default">
+          
+            <div class="field field--name-field-info-image field--type-image field--label-hidden field__item">    <picture><img src="/sites/default/files/styles/medium_cropped_rectangle/public/2024-05/Renter-Header-Image_980x551.jpg?itok=Bpd62HCO" width="450" height="250" alt="Residential REITs Work to Bolster Financial Empowerment of Residents" loading="lazy" typeof="foaf:Image">
+  </picture>
+
+
+</div>
+      
+            <div class="field field--name-field-title field--type-string field--label-hidden field__item">Residential REITs Work to Bolster Financial Empowerment of Residents</div>
+      
+            <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__item"><p>REITs are focused on being responsible community members that support the longer term financial goals of those who call their properties home.</p></div>
+      
+            <div class="field field--name-field-cta field--type-link field--label-hidden field__item"><a href="/news/articles/residential-reits-work-to-bolster-financial-empowerment-of-residents">Learn more</a></div>
+      
+      </div>
+
+                      </div>
+                                                      </li>
+
+                                              <li class="menu-item menu-item--expanded">
+                  <a href="/what-reit" data-drupal-link-system-path="node/3">Events</a>
+                                      
+                  <span class="submenu-toggle__label visually-hidden">Open submenu</span>
+          <div class="menu__submenu">
+            <div class="menu__submenu--container">
+              <ul class="submenu">
+
+              
+                                              <li class="menu-item">
+                  <a href="/events" data-drupal-link-system-path="node/307">Upcoming Events</a>
+                                                    </li>
+
+                                              <li class="menu-item">
+                  <a href="/events/ceo-forum-advocacy-day">CEO Forum &amp; Advocacy Day</a>
+                                                    </li>
+
+                                              <li class="menu-item">
+                  <a href="/events/hr-forum/hr-forum-2024" data-drupal-link-system-path="node/100103680">HR Forum</a>
+                                                    </li>
+
+                                              <li class="menu-item">
+                  <a href="/events/reitweek">REITweek</a>
+                                                    </li>
+
+                                              <li class="menu-item">
+                  <a href="/events/reitwise">REITwise</a>
+                                                    </li>
+
+                                              <li class="menu-item">
+                  <a href="/events/reitworks/reitworks-2024-esg-conference" data-drupal-link-system-path="node/100103679">REITworks</a>
+                                                    </li>
+
+                                              <li class="menu-item">
+                  <a href="/events/reitworld">REITworld</a>
+                                                    </li>
+
+                                              <li class="menu-item">
+                  <a href="/events/symposium">REIT IR Symposium</a>
+                                                    </li>
+
+                                              <li class="menu-item">
+                  <a href="/events/webinars" data-drupal-link-system-path="node/100102073">Webinars</a>
+                                                    </li>
+
+              
+                        </ul>
+          <div class="main-menu__featured-block">
+          </div>
+        </div>
+      </div>
+    
+  
+                                                                              <div class="temp-featured-block" style="display: none;">
+                          <div class="paragraph paragraph--image-info paragraph--image-info--default paragraph--type--image-info paragraph--view-mode--default">
+          
+            <div class="field field--name-field-info-image field--type-image field--label-hidden field__item">    <picture><img src="/sites/default/files/styles/medium_cropped_rectangle/public/2024-06/IREI%20Nareit%20980x551_July16.jpg?itok=ZxtRZwnw" width="450" height="250" alt="IREI Webinar" loading="lazy" typeof="foaf:Image">
+  </picture>
+
+
+</div>
+      
+            <div class="field field--name-field-title field--type-string field--label-hidden field__item">FTSE Nareit U.S. Real Estate Indexes in Review &amp; What&#039;s Next</div>
+      
+            <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__item"><p>Join IREI and Nareit for a quarterly update offering valuable insights into the FTSE Nareit U.S. Real Estate Index Series. During this one-hour webinar, real estate investment experts will discuss the 2024 Q2 performance and upcoming trends.</p></div>
+      
+            <div class="field field--name-field-cta field--type-link field--label-hidden field__item"><a href="https://us06web.zoom.us/webinar/register/1717176506647/WN_6phVEhz3RLi35o1Ixbt8VQ#/registration">Register Now</a></div>
+      
+      </div>
+
+                      </div>
+                                                      </li>
+
+                                              <li class="menu-item menu-item--expanded">
+                  <a href="/what-reit" data-drupal-link-system-path="node/3">About Nareit</a>
+                                      
+                  <span class="submenu-toggle__label visually-hidden">Open submenu</span>
+          <div class="menu__submenu">
+            <div class="menu__submenu--container">
+              <ul class="submenu">
+
+              
+                                              <li class="menu-item">
+                  <a href="/nareit" data-drupal-link-system-path="node/315">About Nareit</a>
+                                                    </li>
+
+                                              <li class="menu-item">
+                  <a href="/nareit/nareit-leadership-team" data-drupal-link-system-path="node/9998">Leadership Team</a>
+                                                    </li>
+
+                                              <li class="menu-item">
+                  <a href="/nareit/staff-directory" data-drupal-link-system-path="node/10000">Staff</a>
+                                                    </li>
+
+                                              <li class="menu-item">
+                  <a href="/nareit/membership" data-drupal-link-system-path="node/317">Membership</a>
+                                                    </li>
+
+                                              <li class="menu-item">
+                  <a href="/nareit/our-brand" data-drupal-link-system-path="node/10296">Nareit Brand</a>
+                                                    </li>
+
+                                              <li class="menu-item">
+                  <a href="/nareit/nareit-foundation" data-drupal-link-system-path="node/100090533">Nareit Foundation</a>
+                                                    </li>
+
+                                              <li class="menu-item">
+                  <a href="/nareit/advocacy" data-drupal-link-system-path="node/10246">Advocacy</a>
+                                                    </li>
+
+                                              <li class="menu-item">
+                  <a href="/nareit/industry-awards" data-drupal-link-system-path="node/10002">Industry Awards</a>
+                                                    </li>
+
+                                              <li class="menu-item">
+                  <a href="/nareit/career-resources" data-drupal-link-system-path="node/100086986">Career Resources</a>
+                                                    </li>
+
+                                              <li class="menu-item">
+                  <a href="/news/advertise-nareit" data-drupal-link-system-path="node/100103186">Advertising</a>
+                                                    </li>
+
+              
+                        </ul>
+          <div class="main-menu__featured-block">
+          </div>
+        </div>
+      </div>
+    
+  
+                                                                              <div class="temp-featured-block" style="display: none;">
+                          <div class="paragraph paragraph--image-info paragraph--image-info--default paragraph--type--image-info paragraph--view-mode--default">
+          
+            <div class="field field--name-field-info-image field--type-image field--label-hidden field__item">    <picture><img src="/sites/default/files/styles/medium_cropped_rectangle/public/2020-12/membership.jpg?itok=WANYNjq2" width="450" height="250" alt="Membership" loading="lazy" typeof="foaf:Image">
+  </picture>
+
+
+</div>
+      
+            <div class="field field--name-field-title field--type-string field--label-hidden field__item">Nareit Membership</div>
+      
+            <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__item"><p>For 60 years, Nareit has led the U.S. REIT industry by ensuring its members’ best interests are promoted by providing unparalleled advocacy, investor outreach, continuing education and networking. </p></div>
+      
+            <div class="field field--name-field-cta field--type-link field--label-hidden field__item"><a href="/nareit/membership">Learn more</a></div>
+      
+      </div>
+
+                      </div>
+                                                      </li>
+
+              
+                            </ul>
+              
+  
+
+
+
+  </nav>
+
+  </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  </header>
+  
+        
+<div class="l-precontent ">
+	<div class="l-precontent__featured-image" >
+		<div class="l-precontent__inner l-container
+																	">					<div class="l-precontent__inner__content">
+
+																<h1 class="page-title">Year-End Tax Reporting Data</h1>
+										  <div class="region region-precontent">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+			</div>
+		</div>
+	</div>
+</div>
+  
+      <main class="l-content">
+      <a id="main-content" tabindex="-1"></a>
+              <div class="l-container--narrow -no-background-image">
+          
+            <div class="region region-content">
+    <div id="block-mimic-content" class="block--main block block-system block-system-main-block">
+  
+    
+      <div class="views-element-container"><div class="view view-year-end-tax-reporting-data view-id-year_end_tax_reporting_data view-display-id-page_year_end_tax_reporting_data js-view-dom-id-a20a06171733f785fc65630ce10bf242a59437fa5ab6a23f37d39c1d6fe230ef">
+  
+    
+
+      <div class="view-header">
+      <p>
+    
+    Beginning with distributions made in or attributable to 2021, Nareit will
+    no longer post individual REIT member spreadsheets relating to the federal
+    income tax treatment of distributions. However, Nareit plans to post press
+    releases and/or other public releases of Nareit corporate member REITs
+    relating to tax treatment of 2021 distributions (including
+    <a href="https://www.irs.gov/pub/irs-pdf/f8937.pdf">
+        Form 8937
+    </a>
+    , “Report of Organizational Actions Affecting Basis of Securities”), if
+    available.
+</p>
+<p>
+    We are aware of several third-party service providers, each unaffiliated
+    with Nareit, that offer customers year-end REIT tax reporting on
+    spreadsheets and other formats, including Broadridge, EDI, and Wall Street
+    Concepts. This information about providers does <strong>not</strong>
+    constitute endorsement or recommendation by Nareit. Nareit urges all
+    potential users to verify and investigate potential data providers and
+    related services.
+</p>
+<p>
+    If your business provides a similar service to customers and would like us
+    to list its information here, please click
+    <a href="https://reit.formstack.com/forms/reittaxisp">
+        here
+    </a>
+    and complete the requested online form.
+</p>
+<p>
+    Please contact
+  
+        <a href="mailto:questions@nareit.com">
+            questions@nareit.com
+        </a>
+
+    with any questions.
+ 
+</p>
+<p>
+    Participating REIT company information is listed alphabetically by company.
+    For 2014-2020, a summary spreadsheet is available below.
+</p>
+<p>
+    Each Nareit member whose name appears in bold in the list below has
+    provided a spreadsheet containing tax reporting information. Nareit does
+    not independently verify and will not alter the tax reporting information
+    contained in these spreadsheets.
+</p>
+<p>Your access, viewing, and use of the tax reporting data listed below is subject to the following <a href="/reit/terms-and-conditions-use">Terms of Use</a></p>
+<p>For questions about reporting this data, please contact <a href="mailto:questions@nareit.com">questions@nareit.com</a>.</p>
+<p><a href="https://www.reit.com/sites/default/files/1099/HistoricalDividendAllocationSummary.pdf">Historical tax treatment of REIT common share dividends</a>    </p>
+<p>For a summary of the past tax data submitted to Nareit, including the date submitted, please refer to the following downloadable spreadsheets:</p>
+<ul><li><a href="https://docs.google.com/spreadsheets/d/128IPCiKzjxnh1SSbL6qdHc1TtVgkJcArfaTC6-mwiTc/edit#gid=546484507">2023</a></li>
+<li><a href="https://docs.google.com/spreadsheets/d/1maWT8ntH_VnDHK_rUz9xZbF9qqzK3BOwti_yFNsJIrU/edit?usp=sharing">2022</a></li>
+<li><a href="https://docs.google.com/spreadsheets/d/1rU60CGjVeagH6PmODqeshyRZAVC_Ki9yetDVJoQ4WN4/edit?usp=sharing">2021</a></li>
+<li><a href="https://www.reit.com/sites/default/files/media/1099Data/Summaries/2020-Year-End-Summary.xlsx">2020</a></li>
+<li><a href="https://www.reit.com/sites/default/files/media/1099Data/Summaries/2019-Year-End-Summary.xlsx">2019</a></li>
+<li><a href="https://www.reit.com/sites/default/files/media/1099Data/Summaries/2018-Year-End-Summary_0.xlsx">2018</a> </li>
+<li><a href="/sites/default/files/2017-Year-End-Summary.xlsx">2017</a></li>
+<li><a href="/sites/default/files/2016-Year-End-Summary.xlsx">2016</a></li>
+<li><a href="/sites/default/files/returns/2015-Year-End-Summary.xlsx">2015</a></li>
+<li><a href="/sites/default/files/media/2014-Year-End-Summary.xlsx">2014</a></li>
+</ul>
+    </div>
+  
+      <div class="view-filters">
+      <form class="views-exposed-form" data-drupal-selector="views-exposed-form-year-end-tax-reporting-data-page-year-end-tax-reporting-data" action="/data-research/benchmark-reports/year-end-tax-reporting-data" method="get" id="views-exposed-form-year-end-tax-reporting-data-page-year-end-tax-reporting-data" accept-charset="UTF-8">
+  <div class="form--inline clearfix">
+  <div class="js-form-item form-item js-form-type-select form-type-select js-form-item-tax-year form-item-tax-year">
+      <label for="edit-tax-year">Select a Year</label>
+        <select data-drupal-selector="edit-tax-year" id="edit-tax-year" name="tax_year" class="form-select"><option value="All">- Any -</option><option value="2023" selected="selected">2023</option><option value="2022">2022</option><option value="2021">2021</option><option value="2020">2020</option><option value="2019">2019</option><option value="2018">2018</option><option value="2017">2017</option><option value="2016">2016</option><option value="2015">2015</option><option value="2014">2014</option><option value="2013">2013</option><option value="2012">2012</option><option value="2011">2011</option><option value="2010">2010</option><option value="2009">2009</option><option value="2008">2008</option><option value="2007">2007</option><option value="2006">2006</option><option value="2005">2005</option><option value="2004">2004</option><option value="2003">2003</option><option value="2002">2002</option><option value="2001">2001</option><option value="2000">2000</option><option value="1999">1999</option><option value="1998">1998</option><option value="1997">1997</option><option value="1996">1996</option><option value="1995">1995</option></select>
+
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit-year-end-tax-reporting-data" type="submit" id="edit-submit-year-end-tax-reporting-data" value="Apply" class="button js-form-submit form-submit" />
+</div>
+
+</div>
+
+</form>
+
+    </div>
+  
+      <div class="attachment attachment-before">
+      <div class="views-element-container"><div class="view view-year-end-tax-reporting-data view-id-year_end_tax_reporting_data view-display-id-attachment_year_end_summary js-view-dom-id-9d63fce188352fc33cbd1e1a56e7c25d79fa29121ee7eee34ebd09c3cd5c72c3">
+  
+    
+
+  
+  
+    
+            <div class="view-content">
+            <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="https://spreadsheets.google.com/feeds/download/spreadsheets/Export?key=1lIzcU-x9PeHJ3aNDjT7ayrO2mvUqjXQ48iY_RRDmOYI&amp;exportFormat=xlsx" target="_blank">2022 Tax Summary Report</a></span></div></div>
+
+      </div>
+      
+  
+  
+      </div>
+</div>
+
+    </div>
+    
+      <div class="tax_tabs tab-ae active">
+      <div class="tab">
+        <a href="#tabs-a-e">A-E</a>
+      </div>
+              <div class="view-content">
+              <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="http://ir.acadiarealty.com/news-releases/news-release-details/acadia-realty-trust-announces-tax-reporting-information-2023#:~:text=Acadia%20Realty%20Trust%20Announces%20Tax%20Reporting%20Information%20for%202023%20Distributions,-PDF%20Version&amp;text=The%20fourth%20quarter%202022%20distribution,2023%20for%20income%20tax%20purposes.">[2023] Acadia Realty Trust (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://www.acresreit.com/dividends">[2023] ACRES Commercial Realty Corp. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investors.agnc.com/tax-information#:~:text=Corporate%20Structure&amp;text=As%20a%20REIT%2C%20we%20are,stockholders%20on%20a%20timely%20basis.">[2023] AGNC Investment Corp. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investors.agreerealty.com/other-information">[2023] Agree Realty Corporation (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investors.aimco.com/resources/current-tax-information/default.aspx">[2023] Aimco (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investors.alexanderbaldwin.com/2024-01-31-Alexander-Baldwin-Announces-Reporting-Information-for-2023-Dividend-Distributions">[2023] Alexander &amp; Baldwin, Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://www.alx-inc.com/stock-information/dividend-tax-treatment">[2023] Alexander&#039;s, Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investor.are.com/news-events-and-webcasts/news/news-details/2024/Alexandria-Real-Estate-Equities-Inc.-Announces-Tax-Treatment-of-Year-2023-Distributions/default.aspx">[2023] Alexandria Real Estate Equities, Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://ir.alpinereit.com/financial-information/tax-information">[2023] Alpine Income Property Trust (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://ir.americanassetstrust.com/news-releases/news-release-details/american-assets-trust-inc-releases-tax-status-2023-distributions">[2023] American Assets Trust (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://www.americanhealthcarereit.com/organizational-actions/">[2023] American Healthcare REIT, Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://americantower.gcs-web.com/news-releases/news-release-details/american-tower-corporation-announces-tax-reporting-12">[2023] American Tower Corporation (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://ir.americold.com/press-releases/news-details/2024/Americold-Realty-Trust-Inc.-Announces-2023-Tax-Treatment-of-Distributions/default.aspx">[2023] Americold Realty Trust (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investors.amh.com/events-and-presentations/press-releases/news-details/2024/AMH-Announces-Tax-Treatment-of-2023-Distributions/default.aspx">[2023] AMH (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://ir.angeloakreit.com/news/news-details/2024/Angel-Oak-Mortgage-REIT-Inc.-Announces-Dividend-Distribution-Tax-Information-for-2023/default.aspx">[2023] Angel Oak Mortgage, Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investors.aircommunities.com/press-releases/news-details/2024/AIR-Communities-Announces-2023-Dividend-Income-Tax-Allocations/default.aspx">[2023] Apartment Income REIT Corp. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://apollocref.com/content/dam/apolloaem/documents/fund-documents/public-funds/apollo-commercial-real-estate-finance/tax-information/2023-dividend-income-tax-treatment.pdf">[2023] Apollo Commercial RE Finance, Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://s2.q4cdn.com/357237921/files/doc_downloads/2024/apple-hospitality-reit-dividend-tax-information-2023.pdf">[2023] Apple Hospitality REIT, Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://ir.arbor.com/investor-relations/dividends">[2023] Arbor Realty Trust, Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://www.armourreit.com/stock-information/dividends/">[2023] ARMOUR Residential REIT (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://www.ahtreit.com/files/5650/AHT_2023_Tax_Reporting_Info_Press_Release_.pdf">[2023] Ashford Hospitality Trust (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investors.avalonbay.com/news-events-and-presentations/news-details/2024/AvalonBay-Communities-Announces-2023-Dividend-Income-Tax-Treatment/default.aspx">[2023] AvalonBay Communities, Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://ir.blackstonemortgagetrust.com/press-releases-and-news/press-release-and-news-details/2024/Blackstone-Mortgage-Trust-Announces-Tax-Treatment-of-2023-Dividends/default.aspx">[2023] Blackstone Mortgage Trust, Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://bhm.bluerock.com/news/news-details/2024/BHM-2023-Tax-Reporting-Information-For-2023-Dividends/default.aspx">[2023] Bluerock Homes Trust, Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://www.bhrreit.com/files/5654/BHR_2023_Tax_Reporting_Info_Press_Release_.pdf">[2023] Braemar Hotels &amp; Resorts, Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investor.brandywinerealty.com/news-releases/news-release-details/brandywine-realty-trust-announces-tax-characteristics-its-2023">[2023] Brandywine Realty Trust (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://ir.brightspire.com/static-files/6f030f70-0d36-4946-aedf-b2d5aa638523">[2023] BrightSpire Capital, Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://broadstone.com/broadstone-net-lease-announces-tax-treatment-of-2023-dividends/">[2023] Broadstone Net Lease, Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investors.bxp.com/news-releases/news-release-details/bxp-announces-2023-tax-treatment-its-distributions">[2023] BXP (<time datetime="2024-04-03T12:00:29-04:00" class="datetime">04/03/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investors.camdenliving.com/investors/news-events-presentations/news/news-details/2024/Camden-Property-Trust-Announces-Tax-Characteristics-of-2023-Distributions/default.aspx">[2023] Camden Property Trust (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investor.caretrustreit.com/news/news-details/2024/CareTrust-REIT-Inc.-Announces-Tax-Treatment-of-2023-Dividends/default.aspx">[2023] CareTrust REIT, Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://invest.cblproperties.com/news-views/news-details/2024/CBL-Properties-Announces-Tax-Reporting-Information-for-2023-Common-Stock-Dividends/default.aspx">[2023] CBL Properties (<time datetime="2024-04-03T12:00:29-04:00" class="datetime">04/03/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://ir.centerspacehomes.com/corporate-overview/press-releases/news-details/2024/Centerspace-Announces-2023-Dividend-Allocations-2024-oUifYROy97/default.aspx">[2023] Centerspace (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://chathamlodgingtrust.gcs-web.com/news-releases/news-release-details/chatham-lodging-trust-announces-2023-distribution">[2023] Chatham Lodging Trust (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investors.cioreit.com/news-events/press-release/2024/City-Office-REIT-Announces-Tax-Treatment-of-2023-Distributions/default.aspx">[2023] City Office REIT (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://www.clarosmortgage.com/news/news-details/2024/Claros-Mortgage-Trust-Inc.-Announces-Tax-Treatment-of-2023-Dividends/default.aspx">[2023] Claros Mortgage Trust, Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://www.cnlhealthcareproperties.com/forms-and-literature/1099-div.stml">[2023] CNL Healthcare Properties Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investors.chct.reit/dividend-tax-history">[2023] Community Healthcare Trust (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investors.cousins.com/stock-info/tax-information/default.aspx">[2023] Cousins Properties (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investor.crowncastle.com/news-releases/news-release-details/crown-castle-announces-tax-reporting-information-2023">[2023] Crown Castle Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://ir.ctoreit.com/financial-information/tax-information">[2023] CTO Realty Growth, Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investor.drhc.com/news-releases/news-release-details/diamondrock-hospitality-company-announces-tax-treatment-2023">[2023] DiamondRock Hospitality Company (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://www.digitalrealty.com/about/newsroom/press-releases/123245/digital-realty-announces-tax-treatment-of-2023-dividends">[2023] Digital Realty (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://www.dhcreit.com/files/doc_downloads/distributions/2024/DHC_NR_1099_01-16-24.pdf">[2023] Diversified Healthcare Trust (<time datetime="2024-04-03T12:00:29-04:00" class="datetime">04/03/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://www.dynexcapital.com/investors-center/news-and-market-information/press-releases/press-release-details/2024/Dynex-Capital-Inc.-Announces-2023-Dividend-Tax-Information/default.aspx">[2023] Dynex Capital, Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://ir.easterlyreit.com/news-releases/news-release-details/easterly-government-properties-announces-tax-characteristics-7">[2023] Easterly Government Properties (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investor.eastgroup.net/2024-01-25-EastGroup-Properties-Announces-the-Income-Tax-Treatment-of-its-2023-Distributions">[2023] EastGroup Properties, Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://ir.elmecommunities.com/news-events/press-releases/detail/356/elme-communities-announces-income-tax-treatment-of-its-2023">[2023] Elme Communities (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investors.esrtreit.com/news/Press-Releases/news-details/2024/Empire-State-Realty-Trust-Announces-2023-Tax-Treatment-of-Its-Distributions/default.aspx">[2023] Empire State Realty Trust (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investors.eprkc.com/news-center/news-details/2024/EPR-Properties-Announces-Tax-Status-of-2023-Distributions/default.aspx">[2023] EPR Properties (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investor.equinix.com/news-events/press-releases/detail/1024/equinix-announces-tax-treatment-of-2023-distributions">[2023] Equinix, Inc. (<time datetime="2024-04-03T12:00:29-04:00" class="datetime">04/03/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://ir.eqcre.com/press-releases/news-details/2024/Equity-Commonwealth-Announces-Tax-Treatment-of-2023-Distributions/default.aspx">[2023] Equity Commonwealth (<time datetime="2024-04-03T12:00:29-04:00" class="datetime">04/03/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://equitylifestyle.gcs-web.com/static-files/a15865ad-23fa-4268-8b1a-00ac3f96e208">[2023] Equity LifeStyle Properties, Inc. (<time datetime="2024-04-03T12:00:29-04:00" class="datetime">04/03/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investors.equityapartments.com/stock/dividend-tax-treatment/default.aspx">[2023] Equity Residential (<time datetime="2024-04-03T12:00:29-04:00" class="datetime">04/03/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investors.eprkc.com/news-center/news-details/2024/EPR-Properties-Announces-Tax-Status-of-2023-Distributions/default.aspx">[2023] Essential Properties Realty Trust, Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investors.essexapartmenthomes.com/files/doc_news/2024/Jan/19/2023-dividend-characteristics.pdf">[2023] Essex Property Trust, Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://ir.extraspace.com/news-releases/news-release-details/extra-space-storage-inc-announces-tax-reporting-information-2023">[2023] Extra Space Storage, Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+
+        </div>
+          </div>
+  
+  
+      <div class="attachment attachment-after">
+      <div class="views-element-container"><div class="view view-year-end-tax-reporting-data view-id-year_end_tax_reporting_data view-display-id-attachment_f_j js-view-dom-id-b7ae7cfac1f88a6965052ca29d52d761c5e4c0fa29857f80c8ea732d4fe10ab7">
+  
+    
+
+  
+  
+    
+      <div class="tax_tabs tab-fj">
+      <div class="tab">
+        <a href="#tabs-f-j">F-J</a>
+      </div>
+              <div class="view-content">
+              <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://ir.farmlandpartners.com/resources/IRS-Forms/default.aspx">[2023] Farmland Partners Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://ir.federalrealty.com/news-releases/news-release-details/federal-realty-investment-trust-releases-tax-status-2023">[2023] Federal Realty Investment Trust (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investor.firstindustrial.com/news-releases/news-release-details/first-industrial-realty-trust-reports-tax-treatment-common-9">[2023] First Industrial Realty Trust, Inc. (<time datetime="2024-04-03T12:00:29-04:00" class="datetime">04/03/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investors.fcpt.com/news/news-details/2024/FCPT-Announces-Tax-Treatment-of-2023-Distributions/default.aspx">[2023] Four Corners Property Trust (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://fbrtreit.com/resources/Dividend-Tax-Treatment/default.aspx">[2023] Franklin BSP Realty Trust Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://ir.fspreit.com/news-market-information/press-releases/news-details/2024/Franklin-Street-Properties-Corp.-Announces-Tax-Composition-of-2023-Distributions/default.aspx">[2023] Franklin Street Properties Corp (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investors.glpropinc.com/news-releases/news-release-details/gaming-and-leisure-properties-inc-announces-2023-distribution">[2023] Gaming and Leisure Properties, Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://ir.gettyrealty.com/news-and-events/news-details/2024/Getty-Realty-Corp.-Announces-2023-Dividend-Tax-Treatment/default.aspx">[2023] Getty Realty Corp. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://www.gladstonecommercial.com/investors/stock-data/tax-history">[2023] Gladstone Commercial Corporation (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://d1io3yog0oux5.cloudfront.net/_0cda71f656408fec4268968e375c2537/gladstonefarms/db/913/8903/file/Dividend+Tax+Information+2023.pdf">[2023] Gladstone Land Corporation (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investors.globalmedicalreit.com/news-events/press-releases/detail/135/global-medical-reit-reports-tax-treatment-of-2023-dividends">[2023] Global Medical REIT (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://ir.globalselfstorage.us/company-information/tax-information">[2023] Global Self Storage, Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://s2.q4cdn.com/376125284/files/doc_financials/tax_info/2024/2023-federal-income-tax-treatment-of-distributions.xlsx">[2023] Great Ajax Corp (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investors.healthcarerealty.com/corporate-profile/dividend-tax-information/">[2023] Healthcare Realty Trust (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://ir.healthpeak.com/news/news-details/2024/Healthpeak-PropertiesAnnounces-Tax-Treatment-of-2023-Distributions/default.aspx">[2023] Healthpeak Properties, Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://www.highwoods.com/for-our-investors/stock-information/tax-information">[2023] Highwoods Properties, Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://www.hinesglobalincometrust.com/hines-global-income-trust-tax-information">[2023] Hines Global Income Trust, Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://ir.hosthotels.com/static-files/5f76f02f-f5f2-4bfd-bbe0-de8bd72ba9a4">[2023] Host Hotels &amp; Resorts, Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investors.hudsonpacificproperties.com/investor-resources/press-releases/press-release-details/2024/Hudson-Pacific-Properties-Announces-2023-Dividend-Tax-Treatment/default.aspx">[2023] Hudson Pacific Properties, Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investors.irtliving.com/press-releases/press-release/2024/Independence-Realty-Trust-Announces-Tax-Treatment-of-Dividends-in-2023/default.aspx">[2023] Independence Realty Trust (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://www.ilptreit.com/investors/news/press-release-details/2024/Industrial-Logistics-Properties-Trust-Announces-2023-Dividend-Allocation/default.aspx">[2023] Industrial Logistics Properties Trust (<time datetime="2024-04-03T12:00:29-04:00" class="datetime">04/03/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://inventrustproperties.q4ir.com/investor-relations/news/news-details/2024/InvenTrust-Properties-Corp.-Announces-Tax-Reporting-Information-For-2023-Distributions/default.aspx">[2023] InvenTrust Properties Corp. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://www.invh.com/news-events/news/news-details/2024/Invitation-Homes-Announces-Tax-Treatment-of-2023-Dividends/default.aspx">[2023] Invitation Homes (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investors.ironmountain.com/news-and-events/press-releases/press-release-details/2024/Iron-Mountain-Incorporated-Announces-Tax-Treatment-of-2023-Distributions/default.aspx">[2023] Iron Mountain (<time datetime="2024-04-03T12:00:29-04:00" class="datetime">04/03/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investors.jbgsmith.com/investor-relations/newsroom/news-details/2024/JBG-SMITH-Reports-Taxable-Composition-of-2023-Distributions/default.aspx">[2023] JBG SMITH (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://jllipt.com/newsroom/press-release/jll-income-property-trust-announces-tax-treatment-of-2023-distributions">[2023] JLL Income Property Trust, Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+
+        </div>
+          </div>
+  
+  
+  
+      </div>
+</div>
+<div class="views-element-container"><div class="view view-year-end-tax-reporting-data view-id-year_end_tax_reporting_data view-display-id-attachment_k_o js-view-dom-id-38abaa1c4cf8cb95c4b5c361a55c67bf3f3d2808b3a294471d16d265f357ccbe">
+  
+    
+
+  
+  
+    
+      <div class="tax_tabs tab-ko">
+      <div class="tab">
+        <a href="#tabs-k-o">K-O</a>
+      </div>
+              <div class="view-content">
+              <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://kbs-cmg.com/offerings/kbs-growth-and-income-reit/gi-8937-forms/">[2023] KBS Growth &amp; Income REIT, Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://kbs-cmg.com/offerings/kbs-real-estate-investment-trust-iii/reitiii-8937-forms/">[2023] KBS Real Estate Investment Trust III (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investors.kilroyrealty.com/investors/press-room/news-details/2024/Kilroy-Realty-Announces-2023-Tax-Treatment-of-Its-Dividend-Distributions/default.aspx">[2023] Kilroy Realty Corporation (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investors.kimcorealty.com/stock-information/tax-treatment/default.aspx">[2023] Kimco Realty Corporation (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://ir.kiterealty.com/news-market-data/press-releases/news-details/2024/Kite-Realty-Group-Trust-Announces-Tax-Reporting-Information-for-2023-Dividend-Distributions/default.aspx">[2023] Kite Realty Group Trust (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://ir.laddercapital.com/news/news-details/2024/Ladder-Capital-Corp-Announces-Tax-Treatment-of-2023-Dividends/default.aspx">[2023] Ladder Capital Corp (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://www.lamar.com/About/Investors/PressReleases/lamar-announces-tax-reporting-info-on-common-stock-011824">[2023] Lamar Advertising Company (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://ir.ltcreit.com/dividend-tax-information">[2023] LTC Properties, Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://ir.lxp.com/news/press-releases/news-details/2024/LXP-Industrial-Trust-Announces-Final-2023-Dividend-Allocation/default.aspx">[2023] LXP Industrial Trust (<time datetime="2024-04-03T12:00:29-04:00" class="datetime">04/03/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://ir.maac.com/news-events/press-releases/news-details/2024/MAA-Announces-Taxable-Composition-of-2023-Distributions/default.aspx">[2023] MAA (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investing.macerich.com/news-releases/news-release-details/macerich-announces-tax-treatment-2023-dividends">[2023] Macerich (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://medalistreit.com/investors/dividend-income-tax-treatment/">[2023] Medalist Diversified REIT, Inc. (<time datetime="2024-04-03T12:00:29-04:00" class="datetime">04/03/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://www.medicalpropertiestrust.com/tax-treatment-of-dividends">[2023] Medical Properties Trust Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://www.prnewswire.com/news-releases/nexpoint-real-estate-finance-announces-2023-dividend-income-tax-treatment-302048528.html?tc=eml_cleartime">[2023] NexPoint Real Estate Finance (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://www.prnewswire.com/news-releases/nexpoint-residential-trust-announces-2023-dividend-income-tax-treatment-302048530.html?tc=eml_cleartime">[2023] NexPoint Residential Trust Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://www.nnnreit.com/wp-content/uploads/2024/01/01.12.24-NNN-REIT-2023-Dividend-Tax-Status.pdf">[2023] NNN REIT, Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://d1io3yog0oux5.cloudfront.net/_00594ffae2f4d5b29e7711e747b6e0d1/omegahealthcare/db/3011/27891/file/2023+Dividend+Taxation+for+Website.pdf">[2023] Omega Healthcare Investors, Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investor.outfront.com/stock-info/default.aspx#taxability">[2023] OUTFRONT Media Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+
+        </div>
+          </div>
+  
+  
+  
+      </div>
+</div>
+<div class="views-element-container"><div class="view view-year-end-tax-reporting-data view-id-year_end_tax_reporting_data view-display-id-attachment_p_t js-view-dom-id-512db06aea5e7ccab654abf154ba14baa493d4488b68a8e620da6b3d55803c78">
+  
+    
+
+  
+  
+    
+      <div class="tax_tabs tab-pt">
+      <div class="tab">
+        <a href="#tabs-p-t">P-T</a>
+      </div>
+              <div class="view-content">
+              <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://ir.pgre.com/investors/news/news-details/2024/Paramount-Announces-Tax-Treatment-of-2023-Common-Stock-Dividends/default.aspx">[2023] Paramount Group, Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://www.pkhotelsandresorts.com/investors/financial-information/dividends-and-tax-information">[2023] Park Hotels &amp; Resorts (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investor.pebblebrookhotels.com/news-and-events/news-releases/news-details/2024/Pebblebrook-Hotel-Trust-Announces-Tax-Treatment-of-2023-Dividends/default.aspx">[2023] Pebblebrook Hotel Trust (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investors.phillipsedison.com/news-releases/news-release-details/phillips-edison-company-announces-tax-reporting-information-2023">[2023] Phillips Edison &amp; Co. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investor.piedmontreit.com/news-releases/news-release-details/piedmont-office-realty-trust-announces-tax-treatment-2023">[2023] Piedmont Office Realty Trust, Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://ir.plymouthreit.com/news-events/press-releases/detail/188/plymouth-industrial-reit-announces-tax-treatment-of-2023">[2023] Plymouth Industrial REIT, Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investors.potlatchdeltic.com/news-and-events/news-releases/press-release-details/2024/PotlatchDeltic-Announces-Tax-Treatment-for-2023-Dividend-Distributions/default.aspx">[2023] PotlatchDeltic Corp. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://ir.prologis.com/press-releases/detail/980/prologis-announces-tax-treatment-of-2023-dividends">[2023] Prologis, Inc. (<time datetime="2024-04-03T12:00:29-04:00" class="datetime">04/03/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investors.publicstorage.com/news-events/press-releases/news-details/2024/Public-Storage-Announces-Tax-Treatment-of-2023-Dividends/default.aspx">[2023] Public Storage (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://ir.rayonier.com/news-releases/news-release-details/rayonier-announces-tax-treatment-2023-dividends">[2023] Rayonier Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://www.realtyincome.com/investors/press-releases/realty-income-announces-2023-dividend-tax-allocation-realty-income">[2023] Realty Income Corporation (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investors.regencycenters.com/news-releases/news-release-details/regency-centers-announces-tax-information-regency-centers-and">[2023] Regency Centers Corporation (<time datetime="2024-04-03T12:00:29-04:00" class="datetime">04/03/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investor.rljlodgingtrust.com/news-releases/news-release-details/rlj-lodging-trust-announces-tax-treatment-2023-dividends">[2023] RLJ Lodging Trust (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://ir.rymanhp.com/news-releases/news-release-details/ryman-hospitality-properties-inc-announces-2023-tax">[2023] Ryman Hospitality Properties, Inc. (<time datetime="2024-04-03T12:00:29-04:00" class="datetime">04/03/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://ir.sabrahealth.com/investors/news/news-details/2024/Sabra-Health-Care-REIT-Inc.-Announces-Tax-Treatment-of-2023-Distributions/default.aspx">[2023] Sabra Health Care REIT, Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://ir.safeholdinc.com/news-releases/news-release-details/safehold-announces-tax-treatment-2023-dividends-including-pre">[2023] Safehold Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://ir.saulcenters.com/news-market-data/press-releases/press-release/2024/Saul-Centers-Inc.-Announces-Tax-Treatment-of-2023-Dividends/default.aspx">[2023] Saul Centers, Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://ir.sbasite.com/English/Investors-overview/news-events/news-details/2024/SBA-Communications-Corporation-Announces-Tax-Reporting-Information-for-2023-Distributions-2024-874YsivGG1/default.aspx">[2023] SBA Communications Corporation (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investors.simon.com/news-releases/news-release-details/simon-property-group-announces-reporting-information-2023">[2023] Simon Property Group, Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://images.sitecenters.com/web/pdf/press-releases/01192024.pdf">[2023] SITE Centers Corp. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://slgreen.gcs-web.com/stock-information/dividends-splits">[2023] SL Green Realty Corp. (<time datetime="2024-04-03T12:00:29-04:00" class="datetime">04/03/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://s23.q4cdn.com/763235638/files/doc_downloads/2024/STAG-Website-Q4-2023-REIT-NAREIT-File-Final.pdf">[2023] STAG Industrial, Inc. (<time datetime="2024-04-03T12:00:29-04:00" class="datetime">04/03/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://ir.starwoodpropertytrust.com/news/press-release-details/2024/Starwood-Property-Trust-Announces-Tax-Reporting-Information/">[2023] Starwood Property Trust, Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://www.starwoodnav.reit/stockholder-information/">[2023] Starwood Real Estate Income Trust (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://ir.storecapital.com/stock-information/historic-dividend-tax-treatment/default.aspx">[2023] STORE Capital Corporation (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://suncommunities.gcs-web.com/news-releases/news-release-details/sun-communities-inc-announces-tax-treatment-2023-distributions">[2023] Sun Communities, Inc. (<time datetime="2024-04-03T12:00:29-04:00" class="datetime">04/03/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://www.sunstonehotels.com/investor-relations/press-releases/news-details/2024/SUNSTONE-HOTEL-INVESTORS-ANNOUNCES-TAX-TREATMENT-OF-2023-DIVIDENDS/default.aspx">[2023] Sunstone Hotel Investors, Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investors.terreno.com/news-presentations/press-releases/press-release/2024/Terreno-Realty-Corporation-Announces-Tax-Treatment-of-2023-Dividends/default.aspx">[2023] Terreno Realty Corporation (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+
+        </div>
+          </div>
+  
+  
+  
+      </div>
+</div>
+<div class="views-element-container"><div class="view view-year-end-tax-reporting-data view-id-year_end_tax_reporting_data view-display-id-attachment_u_z js-view-dom-id-9722a07ad63dc6cc4563e50d4e88a1ef4526539eef812ce45b82b8621fbe067b">
+  
+    
+
+  
+  
+    
+      <div class="tax_tabs tab-uz">
+      <div class="tab">
+        <a href="#tabs-u-z">U-Z</a>
+      </div>
+              <div class="view-content">
+              <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://ir.udr.com/news-events-presentations/press-releases/news-details/2024/UDR-Reports-Tax-Status-of-2023-Distributions-2024-tuL8CvSyw3dlsafdsfdsafds/default.aspx">[2023] UDR, Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://umh.reit/news/news-details/2024/UMH-PROPERTIES-INC.-ANNOUNCES-TAX-TREATMENT-FOR-2023-DISTRIBUTIONS/default.aspx">[2023] UMH Properties, Inc. (<time datetime="2024-04-03T12:00:29-04:00" class="datetime">04/03/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investor.uniti.com/news-releases/news-release-details/uniti-group-inc-announces-tax-reporting-information-2023">[2023] Uniti Group Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investors.uedge.com/corporate-profile/press-releases-filings/news/details/2024/Urban-Edge-Properties-Announces-Tax-Treatment-of-2023-Dividend-Distributions/default.aspx">[2023] Urban Edge Properties (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://ir.ventasreit.com/stock-and-dividend/dividend-information/default.aspx">[2023] Ventas, Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investors.verisresidential.com/news-events/press-releases/detail/511/veris-residential-announces-tax-treatment-of-2023">[2023] Veris Residential, Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investors.viciproperties.com/news/news-details/2024/VICI-Properties-Inc.-Announces-Tax-Treatment-of-2023-Distributions/default.aspx">[2023] VICI Properties, Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investors.vno.com/dividend-information/dividend-tax-treatment">[2023] Vornado Realty Trust (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://ir.wpcarey.com/news/news-details/2024/W.-P.-Carey-Announces-Tax-Treatment-of-2023-Dividends/default.aspx">[2023] W. P. Carey Inc. (<time datetime="2024-04-03T12:00:29-04:00" class="datetime">04/03/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://welltower.com/investors/tax-notices/">[2023] Welltower Inc. (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://investor.weyerhaeuser.com/2024-01-16-Weyerhaeuser-Announces-Tax-Treatment-of-2023-Distributions">[2023] Weyerhaeuser (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content">      <a href="https://ir.whitestonereit.com/news-and-events/news/news-details/2024/Whitestone-REIT-Announces-Tax-Characteristics-of-2023-Distributions/default.aspx">[2023] Whitestone REIT (<time datetime="2024-04-04T12:00:29-04:00" class="datetime">04/04/2024</time>
+)</a>    
+  </span></div></div>
+
+        </div>
+          </div>
+  
+  
+  
+      </div>
+</div>
+
+    </div>
+  
+      </div>
+</div>
+
+  </div>
+
+  </div>
+
+        </div>
+          </main>
+  
+      <div class="l-prefooter">
+	<div class="l-container">
+    <div class="l-prefooter__inner">
+        <div class="region region-prefooter">
+    <div id="block-newslettersignupblock" class="block block-nareit-newsletter-block block-newsletter-sign-up-block">
+  
+      <h2>Get Daily Real Estate News</h2>
+    
+
+      <form class="newsletter-sign-up-form" data-drupal-selector="newsletter-sign-up-form" action="/data-research/benchmark-reports/year-end-tax-reporting-data" method="post" id="newsletter-sign-up-form" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-email form-type-email js-form-item-email form-item-email form-no-label">
+        <input data-drupal-selector="edit-email" type="email" id="edit-email" name="email" value="" size="64" maxlength="255" placeholder="Enter your e-mail address..." class="form-email required" required="required" aria-required="true" />
+
+        </div>
+<input autocomplete="off" data-drupal-selector="form-3ndltdsdpvqdbqvant85tqpsoxlh9mlgyjfl2xeonh0" type="hidden" name="form_build_id" value="form-3nDLTdsDpvqdBQVanT85TQPsOxlH9mlGyJfl2XeOnh0" />
+<input data-drupal-selector="edit-newsletter-sign-up-form" type="hidden" name="form_id" value="newsletter_sign_up_form" />
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions--4"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit--2" name="op" value="Subscribe Now" class="button js-form-submit form-submit" />
+</div>
+
+</form>
+
+
+  </div>
+
+  </div>
+
+    </div>
+  </div>
+</div>
+  
+      <footer class="l-footer">
+  <div class="l-container">
+    <div class="l-footer__inner">
+      <script src="https://js.adsrvr.org/up_loader.1.1.0.js" type="text/javascript"></script>
+      <script type="text/javascript">
+        ttd_dom_ready( function() {
+          if (typeof TTDUniversalPixelApi === 'function') {
+            var universalPixelApi = new TTDUniversalPixelApi();
+            universalPixelApi.init("eac6kka", ["hfqx6ub"], "https://insight.adsrvr.org/track/up");
+          }
+        });
+      </script>
+
+    	<div class="l-footer__logo">
+    		<a href="/" title="Home" rel="home">
+        	<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+   viewBox="0 0 474.6 72" xml:space="preserve">
+            <path d="M265,37.8c0.9-0.1,1.1-0.4,1.1-1.2v-13c0-0.8-0.2-1.1-1.1-1.2V21h8.1c2.7,0,4.8,0,6.3,1c1.3,0.9,2.1,2.3,2.1,3.9
+  c0,2.4-1.4,4-4.1,4.9l3.6,5.8c0.3,0.6,0.8,1,1.5,1.2v1.4h-5.3l-4.8-7.8h-1.6v5.2c0,0.8,0.2,1.1,1.1,1.2v1.4h-7L265,37.8z M276.6,26
+  c0-1.9-1.1-2.5-3.5-2.5h-2.3v5.3h2.3C275.5,28.8,276.6,27.9,276.6,26z M290.1,39.4c-4.6,0-7.5-2.6-7.5-6.9c0-3.7,2.7-6.2,6.7-6.2
+  c3.8,0,6,2.1,6,5.9c0,0.2,0,0.4,0,0.6h-8.5c0.1,2.8,1.5,4.3,4.1,4.3c1.7,0,2.8-0.6,3.2-1.9h1.2v3.1C293.7,39,291.9,39.4,290.1,39.4z
+   M290.9,30.8L290.9,30.8c0-1.6-0.7-2.5-1.8-2.5s-1.9,0.9-2.1,2.5H290.9z M305.1,38.2c-1.2,0.8-2.6,1.3-4,1.3c-2.7,0-4.4-1.7-4.4-3.8
+  c0-2.9,2.5-4.1,8.1-5.2v-0.3c0-1.2-0.7-1.7-2.3-1.7c-1.8,0-2.9,0.6-3.2,1.8h-1.8v-2.9c1.9-0.7,3.8-1.1,5.8-1.1
+  c4.1,0,5.6,1.5,5.6,4.9v5.7c0,0.7,0.2,0.9,0.9,1v1.3h-4.9V38.2z M304.8,32.6c-2.6,0.6-3.9,1.5-3.9,2.8c0,0.8,0.6,1.4,1.3,1.4
+  c0.1,0,0.1,0,0.2,0c0.9,0,1.8-0.4,2.4-1.2V32.6z M311.8,37.8c0.8-0.1,1-0.3,1-1V23.3c0-0.7-0.2-0.9-1-1V21h5.3v15.8
+  c0,0.7,0.2,0.9,1,1v1.3h-6.3L311.8,37.8z M334.2,39.4c-4.7,0-7.5-2.6-7.5-6.9c0-3.7,2.7-6.2,6.7-6.2c3.8,0,6,2.1,6,5.9
+  c0,0.2,0,0.4,0,0.6H331c0.1,2.8,1.6,4.3,4.1,4.3c1.7,0,2.8-0.6,3.2-1.9h1.2v3.1C337.8,39,336,39.4,334.2,39.4L334.2,39.4z M335,30.8
+  L335,30.8c0-1.6-0.7-2.5-1.8-2.5c-1.1,0-2,0.9-2.1,2.5H335z M342.7,34.6l1.2,0.4c-0.1,0.2-0.1,0.5-0.1,0.7c0,0.9,1,1.5,2.7,1.5
+  c1.7,0,2.5-0.4,2.5-1.3s-1-1.1-3.1-1.6c-3-0.8-4.4-1.9-4.4-3.9c0-2.4,2.2-4.1,5.8-4.1c2,0,4,0.6,5.7,1.7l-1.9,2.7l-1.2-0.4
+  c0-0.1,0-0.3,0-0.4c0-0.9-0.9-1.5-2.2-1.5s-2,0.5-2,1.2s0.9,0.9,2.6,1.3c3.2,0.9,4.8,1.7,4.8,4.2s-2.3,4.3-6.3,4.3
+  c-2.3,0.1-4.5-0.6-6.4-1.9L342.7,34.6z M360.5,39.4c-3,0-4.3-1.1-4.3-4v-6.8h-1.4v-2h1.4v-3.3l4.3-1v4.3h2.9v2h-2.9v7
+  c0,1.2,0.3,1.7,1.2,1.7s1.2-0.5,1.2-1.4h1.1v3.1C362.9,39.3,361.7,39.4,360.5,39.4z M373.6,38.2c-1.2,0.8-2.6,1.3-4,1.3
+  c-2.7,0-4.4-1.7-4.4-3.8c0-2.9,2.5-4.1,8.1-5.2v-0.3c0-1.2-0.7-1.7-2.3-1.7c-1.8,0-2.9,0.6-3.2,1.8h-1.8v-2.9
+  c1.9-0.7,3.8-1.1,5.8-1.1c4.1,0,5.6,1.5,5.6,4.9v5.7c0,0.7,0.2,0.9,0.9,1v1.3h-4.9L373.6,38.2z M373.3,32.6
+  c-2.6,0.6-3.9,1.5-3.9,2.8c0,0.8,0.6,1.4,1.3,1.4c0.1,0,0.1,0,0.2,0c0.9,0,1.8-0.4,2.4-1.2V32.6z M385.1,39.4c-3,0-4.3-1.1-4.3-4
+  v-6.8h-1.3v-2h1.4v-3.3l4.3-1v4.3h2.9v2h-2.9v7c0,1.2,0.3,1.7,1.2,1.7s1.2-0.5,1.2-1.4h1.1v3.1C387.5,39.3,386.3,39.4,385.1,39.4
+  L385.1,39.4z M397,39.4c-4.6,0-7.5-2.6-7.5-6.9c0-3.7,2.7-6.2,6.8-6.2c3.8,0,6,2.1,6,5.9c0,0.2,0,0.4,0,0.6h-8.5
+  c0.1,2.8,1.6,4.3,4.1,4.3c1.7,0,2.8-0.6,3.2-1.9h1.2v3.1C400.6,39.1,398.8,39.4,397,39.4L397,39.4z M397.7,30.8L397.7,30.8
+  c0-1.6-0.7-2.5-1.8-2.5s-2,0.9-2.1,2.5H397.7z M266.2,56.1c-0.1-0.3-0.2-0.6-0.4-0.9c-0.2-0.1-0.4-0.2-0.7-0.2v-1.3h6.2V55
+  c-0.5,0-0.7,0.2-0.7,0.6c0,0.2,0,0.4,0.1,0.5l1.6,5.5l1.8-5.2c-0.4-1-0.5-1.4-1.2-1.4h-0.1v-1.3h6.1V55c-0.5,0-0.7,0.2-0.7,0.6
+  c0,0.2,0,0.4,0.1,0.5l1.7,5.5l1.6-5.5c0.1-0.2,0.1-0.4,0.1-0.6c0-0.4-0.2-0.6-0.8-0.6v-1.3h4.6V55c-0.6,0.1-0.9,0.4-1.1,1.1
+  l-3.5,10.2h-3.7l-1.9-6.4l-2,6.4h-3.7L266.2,56.1z M293,53.5c4.2,0,7,2.7,7,6.6s-2.8,6.6-7,6.6S286,63.9,286,60S288.8,53.5,293,53.5
+  z M293,64.1c1.6,0,2.5-1.4,2.5-4.1s-0.9-4.1-2.5-4.1s-2.5,1.4-2.5,4.1S291.5,64.1,293,64.1L293,64.1z M301.5,65c0.8-0.1,1-0.3,1-1
+  v-7.9c0-0.7-0.2-1-1-1v-1.3h4.8v1.4c0.9-1.1,2.2-1.7,3.5-1.7c0.4,0,0.7,0,1.1,0.1v3.6h-1.3c0-0.6-0.4-1-1-1c-0.1,0-0.1,0-0.2,0
+  c-1.3,0-1.6,0.8-1.6,2.6V64c0,0.7,0.2,0.9,0.9,1v1.3h-6.2V65z M311.9,65c0.8-0.1,0.9-0.3,0.9-1V50.5c0-0.7-0.1-0.9-0.9-1v-1.3h5.3
+  v10.5l3-2.8c0.2-0.2,0.3-0.3,0.3-0.5s-0.3-0.4-0.8-0.4v-1.3h6.4V55c-0.6,0-1.3,0.2-1.7,0.6l-2.7,2.2l4,6.3c0.3,0.5,0.7,0.8,1.1,0.8
+  h0v1.3H320V65c0.5,0,0.8-0.1,0.8-0.4c0-0.2-0.1-0.4-0.2-0.5l-2.2-3.6l-1.4,1.1V64c0,0.7,0.2,0.9,0.9,1v1.3h-6.2L311.9,65z M328.2,65
+  c0.8-0.1,1-0.3,1-1v-7.9c0-0.7-0.2-1-1-1v-1.3h5.3V64c0,0.7,0.2,0.9,1,1v1.3h-6.3V65z M331.2,47.7c1.3,0,2.3,1,2.4,2.3
+  c0,0,0,0,0,0.1c0,1.3-1,2.4-2.3,2.4c0,0,0,0,0,0c-1.3,0-2.3-1-2.3-2.3c0,0,0,0,0-0.1C328.8,48.8,329.8,47.7,331.2,47.7
+  C331.1,47.7,331.1,47.7,331.2,47.7L331.2,47.7z M336.2,65c0.8-0.1,0.9-0.3,0.9-1v-7.9c0-0.7-0.2-1-0.9-1v-1.3h5v1.1
+  c1.1-1,2.5-1.5,4-1.5c3.1,0,4.5,1.6,4.5,5.1V64c0,0.4,0,0.6,0.2,0.8c0.2,0.1,0.5,0.2,0.7,0.2v1.3h-6.2V65c0.8-0.1,0.9-0.3,0.9-1
+  v-5.6c0-1.6-0.4-2.4-1.7-2.4c-0.9,0.1-1.7,0.5-2.2,1.2V64c0,0.7,0.2,0.9,0.9,1v1.3h-6.2L336.2,65z M357.5,66.3
+  c-3.3,0-5.4-2.2-5.4-5.6c0-4.1,3.2-7,8.8-7h5.5V55c-0.8,0.1-0.9,0.3-0.9,1v8.3c0,0.9,0.6,1.8,0.6,2.8c0,2.9-2.8,4.9-7.7,4.9
+  c-3.1,0-5.2-1-6.6-3l3-2.4l0.9,0.8c-0.1,0.2-0.1,0.3-0.1,0.5c0,0.9,1,1.7,2.7,1.7c2.3,0,3.6-1.1,3.6-2.8c0-0.6-0.2-1.2-0.6-1.7
+  C360.1,65.9,358.8,66.3,357.5,66.3z M361.1,55.9c-3,0-4.5,1.7-4.5,4.9c0,2.1,0.8,3.2,2.2,3.2c0.9,0,1.7-0.3,2.4-0.9L361.1,55.9
+  L361.1,55.9z M375.2,65c0.8-0.1,0.9-0.3,0.9-1v-8.2h-1.3v-2h1.3v-1.4c0-3.1,1.7-4.7,5.1-4.7c1,0,2,0.2,3,0.5v3.1h-1.6
+  c0-1-0.3-1.4-1-1.4s-1.1,0.6-1.1,1.9v1.9h2.2v2h-2.2V64c0,0.7,0.2,0.9,1.1,1v1.3h-6.4L375.2,65z M390.6,53.5c4.3,0,7.1,2.7,7.1,6.6
+  s-2.8,6.6-7.1,6.6s-7-2.8-7-6.6S386.5,53.5,390.6,53.5z M390.6,64.1c1.6,0,2.5-1.4,2.5-4.1s-0.9-4.1-2.5-4.1s-2.5,1.4-2.5,4.1
+  S389.1,64.1,390.6,64.1L390.6,64.1z M398.8,65c0.8-0.1,1-0.3,1-1v-7.9c0-0.7-0.2-1-1-1v-1.3h4.8v1.4c0.9-1.1,2.2-1.7,3.6-1.7
+  c0.4,0,0.7,0,1.1,0.1v3.6h-1.3c0-0.6-0.5-1-1.1-1c0,0,0,0-0.1,0c-1.3,0-1.6,0.8-1.6,2.6V64c0,0.7,0.2,0.9,0.9,1v1.3h-6.2V65z
+   M415.8,67.9h1.6c0,0.9,0.7,1.6,1.5,1.6c0,0,0.1,0,0.1,0c1.2,0,1.9-0.6,1.9-1.6c0-0.3,0-0.6-0.2-0.9l-4.3-11
+  c-0.3-0.8-0.5-1.1-1.2-1.1v-1.3h6.6V55c-0.5,0-0.8,0.2-0.8,0.6c0,0.2,0,0.4,0.1,0.5l2.1,5.9l2.1-5.9c0.1-0.2,0.1-0.4,0.1-0.6
+  c0-0.4-0.3-0.6-0.8-0.6h-0.1v-1.3h5V55c-0.6,0.1-1.1,0.5-1.2,1.1l-4.2,11.4c-1.2,3.2-2.6,4.5-5.8,4.5c-0.9,0-1.8-0.1-2.6-0.5
+  L415.8,67.9z M436.8,53.5c4.3,0,7.1,2.7,7.1,6.6s-2.8,6.6-7.1,6.6s-7-2.8-7-6.6S432.6,53.5,436.8,53.5L436.8,53.5z M436.8,64.1
+  c1.6,0,2.5-1.4,2.5-4.1s-0.9-4.1-2.5-4.1s-2.5,1.4-2.5,4.1S435.3,64.1,436.8,64.1L436.8,64.1z M454.7,65.1c-1.1,1-2.5,1.5-4,1.5
+  c-3.1,0-4.5-1.6-4.5-5V56c0-0.7-0.2-1-0.9-1v-1.3h5.2v7.9c0,1.6,0.4,2.4,1.7,2.4c0.9-0.1,1.7-0.5,2.2-1.2v-6.8c0-0.7-0.2-1-0.9-1
+  v-1.3h5.3V64c0,0.7,0.2,0.9,0.9,1v1.3h-5L454.7,65.1z M469.5,56.2c2.8-0.1,5.2,2.2,5.2,5c0.1,2.8-2.2,5.2-5,5.2
+  c-2.8,0.1-5.2-2.2-5.2-5c0,0,0-0.1,0-0.1c-0.1-2.7,2.1-5,4.8-5.1C469.4,56.3,469.5,56.3,469.5,56.2L469.5,56.2z M469.5,65.5
+  c2.3-0.1,4.1-2.1,4-4.4c-0.1-2.2-1.8-3.9-4-4c-2.3,0.1-4.1,2.1-4,4.4C465.7,63.7,467.4,65.4,469.5,65.5z M469.7,61.8h-1v2.1h-1.1
+  v-5.4h1.7c1.6,0,2.5,0.3,2.5,1.7c0,0.6-0.4,1.2-1,1.4l1.2,2.3h-1.2L469.7,61.8z M469.4,59.3h-0.7V61h0.8c0.8,0,1.2-0.3,1.2-0.8
+  S470.2,59.4,469.4,59.3L469.4,59.3z M241.9,66.2v-0.4c-1.5-1.7-2.1-3.3-2.1-7.2v-24h7.7V21h-7.6V4.6h-0.4l-23.2,29.6v0.5h6.5v24.1
+  c0,3.9-0.6,5.5-2.2,7.2v0.4L241.9,66.2z M194.4,66.2h21.4v-0.4c-1.5-1.7-2.1-3.3-2.1-7.2V21h-19.3v0.4c1.6,1.7,2.2,3.3,2.2,7.2v30.2
+  c0,3.9-0.6,5.5-2.2,7.2V66.2z M205.1,18c5,0,9-4,9-9c0-5-4-9-9-9l0,0c-5,0-9,4-9,9C196,14,200.1,18,205.1,18 M180.6,66.7
+  c1.1-0.1,2.2,0.2,3,0.9h0.4V52.1h-0.4c-3.4,1.7-7.1,2.6-10.9,2.5c-4.7,0-8-2-9.1-5.5H194v-0.3c-1-0.8-1.5-2-1.8-5.5
+  c-1-14.7-8.8-23.8-22.8-23.8c-13.5,0-23.2,10.8-23.2,24.1s9.6,24.1,24.2,24.1C175.2,67.8,177.8,66.8,180.6,66.7 M169.4,32.6
+  c3.4,0,6.1,2.7,6.4,6.5h-12.8c-0.1-3.5,2.7-6.4,6.2-6.5C169.3,32.6,169.4,32.6,169.4,32.6 M115.5,58.7c0,3.9-0.6,5.5-2.2,7.2v0.4
+  H135v-0.4c-1.7-1.7-2.5-3.5-2.5-7.5V38.5c1.6-1.7,3.8-2.6,6.1-2.5c2.8,0,4.7,0.6,5.9,1.7h0.4V18.3h-0.4c-1.2,2.1-11.1,0.2-13.4,10
+  h-0.4l-1-7.3h-17.4v0.4c2.1,2.3,3.1,4.1,3.1,9L115.5,58.7z M92.2,59.6l1.8,6.7h16.7v-0.4c-2.1-2.3-3.1-4.1-3.1-9V38.2
+  c0-4,0.5-5.7,2.1-7.2l-0.1-0.4c-3.9-0.2-8.1-11.2-24.1-11.2c-14,0-24.2,10.9-24.2,24.7c0,12.3,8.6,23.6,20.3,23.6
+  c5.4,0,9.1-3,10.4-8.2L92.2,59.6z M86,52.3c-4.6-0.2-8.1-4-8-8.5c0.2-4.3,3.6-7.8,8-8c1.6,0,3.2,0.5,4.5,1.4v13.7
+  C89.1,51.8,87.6,52.3,86,52.3 M22.3,65.9c-1.7-2-2.6-3.8-2.6-8.2V32.7l16.4,33.6h22.6v-0.4c-1.8-2-2.6-3.8-2.6-8.2V10.7
+  c0-4.4,0.9-6.1,2.6-8.2V2.2H36.4v0.4c1.7,2,2.5,3.8,2.5,8.2v24L23.4,2.2H0v0.4c1.8,2,2.6,3.8,2.6,8.2v47.1c0,4.4-0.9,6.1-2.6,8.2
+  v0.4h22.3V65.9z"/>
+          </svg>      	</a>
+        <div id="block-socialmedialinks" class="block block-block-content block-block-content81c2a625-5791-4065-9818-1c82f3c2a80f">
+  
+    
+
+      
+            <ul class="footer-contact-section__social-links"><li class="footer-contact-section__social-link footer-contact-section__social-link--facebook"><a href="http://www.facebook.com/REITsNAREIT" target="_blank">Facebook</a></li>
+	<li class="footer-contact-section__social-link footer-contact-section__social-link--linkedin"><a href="https://www.linkedin.com/company/nareit" target="_blank">LinkedIn</a></li>
+	<li class="footer-contact-section__social-link footer-contact-section__social-link--twitter"><a href="https://twitter.com/REITs_NAREIT" target="_blank">Twitter</a></li>
+	<li class="footer-contact-section__social-link footer-contact-section__social-link--youtube"><a href="http://www.youtube.com/NAREIT1" target="_blank">YouTube</a></li>
+	<li class="footer-contact-section__social-link footer-contact-section__social-link--rss-feed"><a href="/reit/rss-feeds">RSS Feed</a></li>
+</ul>
+      
+  </div>
+
+        <div id="block-copyright" class="block block-block-content block-block-content0535d0e6-8c4e-416c-b82b-3c653e9a570f">
+  
+    
+
+      
+            <p>©Copyright Nareit 2024. All rights reserved.</p>
+
+      
+  </div>
+
+      </div>
+
+      <div class="l-footer__contact">
+      	<div id="block-footer-contact-section" class="block block--footer-contact-section block-block-content block-block-content82f60f1f-538e-4f6f-8629-89b2ea363375 footer-contact-section l-footer__contact-section">
+  
+    
+
+      
+            <div class="footer-contact-section__contact-info">
+<h6 class="footer-contact-section__contact-info-title">1875 | Street, NW<br />
+Suite 500<br />
+Washington, D.C. 20006</h6>
+
+<p>1-202-739-9400<br />
+1-800-3-NAREIT<br />
+1-202-739-9401 (fax)</p>
+</div>
+      
+  </div>
+
+      </div>
+
+      <div class="l-footer__navigation">
+      	<nav role="navigation" aria-labelledby="block-footerlinks-menu" id="block-footerlinks" class="block block-menu navigation menu--footer-links">
+            
+  <h2 class="visually-hidden" id="block-footerlinks-menu">Footer links</h2>
+  
+
+        
+              <ul class="footer-links-menu">
+                    <li class="footer-links-menu__item">
+        <a href="/search" data-drupal-link-system-path="search">Search</a>
+              </li>
+                <li class="footer-links-menu__item">
+        <a href="/reit/rss-feeds" data-drupal-link-system-path="node/10060">RSS feeds</a>
+              </li>
+                <li class="footer-links-menu__item">
+        <a href="/reit/privacy-statement" data-drupal-link-system-path="node/9866">Privacy</a>
+              </li>
+                <li class="footer-links-menu__item">
+        <a href="/reit/cookie-policy" data-drupal-link-system-path="node/10324">Cookie Policy</a>
+              </li>
+                <li class="footer-links-menu__item">
+        <a href="/reit/terms-and-conditions-use" data-drupal-link-system-path="node/9867">Terms of Use</a>
+              </li>
+                <li class="footer-links-menu__item">
+        <a href="/reit/contact-us" data-drupal-link-system-path="node/123435">Contact Us</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+      </div>
+
+			<div class="l-footer__about-nareit">
+      <div id="block-aboutnareit" class="block block--about-nareit block-block-content block-block-contentd79e598a-d66c-4c55-9c6e-9dad86e929bf l-footer__about-nareit">
+  
+    
+
+      
+            <p>Nareit® is the worldwide representative voice for REITs and publicly traded real estate companies with an interest in U.S. real estate and capital markets. Nareit's members are REITs and other businesses throughout the world that own, operate, and finance income-producing real estate, as well as those firms and individuals who advise, study, and service those businesses. National Association of Real Estate Investment Trusts® and Nareit® are registered trademarks of the National Association of Real Estate Investment Trusts (Nareit).</p>
+      
+  </div>
+
+      </div>
+
+      <div class="l-footer__leed_asset">
+      <div id="block-leedasset" class="block block-block-content block-block-contentdd62ce2f-d515-4a8e-b338-a73ba2fe63fe">
+  
+    
+
+      
+            <div class="field field--name-field-raw-image field--type-image field--label-hidden field__item">    <picture><img src="/sites/default/files/2020-11/LEED-Logo.jpg" width="102" height="200" alt="LEED Certificate" loading="lazy" typeof="foaf:Image">
+  </picture>
+
+</div>
+      
+  </div>
+
+      </div>
+
+    </div>
+  </div>
+</footer>
+  </div>
+
+  </div>
+
+
+    
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"data-research\/benchmark-reports\/year-end-tax-reporting-data","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"eu_cookie_compliance":{"cookie_policy_version":"1.0.0","popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n        \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \u003Ch2\u003EThis website uses cookies to enhance content, analyze traffic and serve advertising, ensuring you get the best experience on our website.\u003C\/h2\u003E\u003Cp\u003EBy continuing to use our site you are agreeing to our \u003Ca href=\u0022\/reit\/cookie-policy\u0022 target=\u0022_blank\u0022\u003Ecookie policy\u003C\/a\u003E.\u003C\/p\u003E\n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n            \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EI accept\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022\u003ENo, thanks\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n        \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n            \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EI accept\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022\u003ENo, thanks\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/","popup_link_new_window":false,"popup_position":false,"fixed_top_position":true,"popup_language":"en","store_consent":false,"better_support_for_screen_readers":false,"cookie_name":"","reload_page":false,"domain":"","domain_all_sites":false,"popup_eu_only":false,"popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"set_cookie_session_zero_on_disagree":0,"disagree_do_not_show_popup":false,"method":"opt_in","automatic_cookies_removal":false,"allowed_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv aria-labelledby=\u0022popup-text\u0022 class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\u003Cp\u003EYou have given your consent for us to set cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button \u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false,"reload_options":0,"reload_routes_list":"","withdraw_button_on_info_popup":false,"cookie_categories":[],"cookie_categories_details":[],"enable_save_preferences_button":true,"cookie_value_disagreed":"0","cookie_value_agreed_show_thank_you":"1","cookie_value_agreed":"2","containing_element":"body","settings_tab_enabled":false,"olivero_primary_button_classes":"","olivero_secondary_button_classes":"","close_button_action":"close_banner","open_by_default":true,"modules_allow_popup":true,"hide_the_banner":false,"geoip_match":true},"ckeditorAccordion":{"accordionStyle":{"collapseAll":null,"keepRowsOpen":null,"animateAccordionOpenAndClose":1,"openTabsWithHash":1}},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true,"\/data-research\/benchmark-reports\/year-end-tax-reporting-data":true},"user":{"uid":0,"permissionsHash":"37eefb42351ff86fcc0a35170742771ffd1f54604940312a5c8c4107cc297640"}}</script>
+<script src="/sites/default/files/js/js_T1mDYLrXJrRug1A7wNOihQVCgOUNu1RoGmPaIhHHQYM.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=mimic&amp;include=eJyNUVtywyAMvJBtjuSRQcFqhEQRJHVPH1K77qTTj_7A6rF6rCCEqiCbgwNMl6JSB68F3dt7w7J1zFoW_XABL9D4CKp4PEMzCZOg-2UPtlnF5Bawnstgtr3ghGYQ0faKoiUB0yce3W30qlfCIVEi7wpaVjG6YYWFO2l3R9YF-DDuK9SRJLc6YJt3ev9SZoI-r_vL-f_M-RTgioGqlhl8HzWQijvRLiBKGG6Ed3Nf75Q0NP7exJDR18NIKG0cE5AMGQrEAnk1F0rLwNOPZ2p9q4XJVgwHc0UIWMaqMT7lEChIdU5kHplBUJv1s6bnKZZTQwgkccxFY9fTulaBPPRVXmuuSHGtD4Y-0tg"></script>
+<script src="https://static.addtoany.com/menu/page.js" async></script>
+<script src="/sites/default/files/js/js_NH-wMGtvj_UVqSxlJDs6zF10biKHqSHgu-Xsc4-LV80.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=mimic&amp;include=eJyNUVtywyAMvJBtjuSRQcFqhEQRJHVPH1K77qTTj_7A6rF6rCCEqiCbgwNMl6JSB68F3dt7w7J1zFoW_XABL9D4CKp4PEMzCZOg-2UPtlnF5Bawnstgtr3ghGYQ0faKoiUB0yce3W30qlfCIVEi7wpaVjG6YYWFO2l3R9YF-DDuK9SRJLc6YJt3ev9SZoI-r_vL-f_M-RTgioGqlhl8HzWQijvRLiBKGG6Ed3Nf75Q0NP7exJDR18NIKG0cE5AMGQrEAnk1F0rLwNOPZ2p9q4XJVgwHc0UIWMaqMT7lEChIdU5kHplBUJv1s6bnKZZTQwgkccxFY9fTulaBPPRVXmuuSHGtD4Y-0tg"></script>
+<script src="/modules/contrib/eu_cookie_compliance/js/eu_cookie_compliance.min.js?v=10.1.5" defer></script>
+<script src="/modules/contrib/ckeditor_accordion/js/accordion.frontend.js?seb592"></script>
+<script src="/sites/default/files/js/js_cWnY7KufXaxvvJuxdoZmbs_wM2XvcDX9LhEDOIQhPkI.js?scope=footer&amp;delta=5&amp;language=en&amp;theme=mimic&amp;include=eJyNUVtywyAMvJBtjuSRQcFqhEQRJHVPH1K77qTTj_7A6rF6rCCEqiCbgwNMl6JSB68F3dt7w7J1zFoW_XABL9D4CKp4PEMzCZOg-2UPtlnF5Bawnstgtr3ghGYQ0faKoiUB0yce3W30qlfCIVEi7wpaVjG6YYWFO2l3R9YF-DDuK9SRJLc6YJt3ev9SZoI-r_vL-f_M-RTgioGqlhl8HzWQijvRLiBKGG6Ed3Nf75Q0NP7exJDR18NIKG0cE5AMGQrEAnk1F0rLwNOPZ2p9q4XJVgwHc0UIWMaqMT7lEChIdU5kHplBUJv1s6bnKZZTQwgkccxFY9fTulaBPPRVXmuuSHGtD4Y-0tg"></script>
+
+  </body>
+</html>
